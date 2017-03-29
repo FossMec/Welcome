@@ -5,15 +5,3 @@ FOSS Cell at MEC aims at bringing out new coding talents and open source enthusi
 * To nurture the coding talents 
 * To give exposure in the open source community
 * To incorporate the concepts of open source into other fields such as IoT
-
-### Team
-* Adarsh S- Python, Django, SQL
-* Akhil Abraham- C
-* Jithin James- Web devlopment
-* V Bharat krishna- Front-end web development, content writing
-* Adithya Nair- Java, Android development, Front-end web development
-* Hari Raj- Ruby,Ruby on Rails, Front-end web development
-* Amruth Chand- C, Shell scripting
-* Midhun Madhusoodhanan- Android development
-* Kuriakose Eldho- C, Design
-* Bhairavi Shah- C, Python
