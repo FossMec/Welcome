@@ -139,25 +139,27 @@ When you're building a website, you always need a similar set of components: a w
 
 Luckily for you, other people long ago noticed that web developers face similar problems when building a new site, so they teamed up and created frameworks  that give you ready-made components to use.
 
-### Technologies Needed
 
-* ###Back-end Web development
 Your website or dynamic web application is a sum of layers—structure, design and content, and functionality. The technology and programming that “power” a site—what your end user doesn’t see but what makes the site run—is called the back end. Consisting of the server, the database, and the server-side applications, it’s the behind-the-scenes functionality—the brain of a site. This is the ecosystem of the database manager and the back-end developer.
 
-SQL
-Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data.
-Links
-https://www.codecademy.com/learn/learn-sql
-https://www.w3schools.com/sql/
 
-Major Web-Frameworks
-When you're building a website, you always need a similar set of components: a way to handle user authentication (signing up, signing in, signing out), a management panel for your website, forms, a way to upload files, etc.
+### Major Web-Frameworks and  Technologies Needed
 
-Luckily for you, other people long ago noticed that web developers face similar problems when building a new site, so they teamed up and created frameworks  that give you ready-made components to use.
 
-Django 
-           Django is a free and open source web application framework, written in Python.Instagram,National            Geographic,Mozilla, Pintrest are some websites which run on django.
-           
+
+
+
+*  Django or Flask
+  If you're already knowledgeble in Python and interested in Web Development, I suggest you start with learning Django or Flask, Django is a free and open source web application framework, written in Python Instagram, National Geographic, Mozilla, Pintrest are some websites which run on django. Flask is a lighter version of Django
+  
+  DjangoGirls: https://tutorial.djangogirls.org/en/
+  Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
+  Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+  
+  Flask-Documentation: https://www.tutorialspoint.com/flask/
+  Flask-Doc: https://hackr.io/tutorials/learn-flask
+  
+
 Ruby on Rails
            Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
 
@@ -189,6 +191,12 @@ Rocket.rs
      Links
 https://rocket.rs/guide/
 
+
+*  SQL
+  Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data.
+  Links
+  https://www.codecademy.com/learn/learn-sql
+  https://www.w3schools.com/sql/
 
 # 2. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
 
