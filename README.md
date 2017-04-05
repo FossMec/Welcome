@@ -52,6 +52,8 @@ Command Line - https://www.learnenough.com/command-line-tutorial
 
 # GIT and GITHUB
 
+GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 56 million projects. The social network for programmer!!!!!!
+
 Now lets get into something technical, the website you're reading this on is GitHub. You ask what is github? Official statement is that "GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project"
 
 So now lets put into simple words, Github is a platform similar to Google Drive, but instead of photos and stuff you upload your Software projects here, if you're developing a Operating System or Website you upload the Source Code here, for safekeeping and file sharing. You can build the same software from people all over the world with GitHub.
@@ -59,3 +61,10 @@ So now lets put into simple words, Github is a platform similar to Google Drive,
 So your first step into becoming a software developer is to learn git and learning to use github. 
 
 Wisdom can be shared, we can only guide you on where to learn, it is your duty to learn. We will provide you with a list of resources to learn to get into git. And I again say NEVER GIVE UP!!!!!!
+
+Here is a list of to learn GIT!
+
+Learn GIT Codeacademy - https://www.codecademy.com/learn/learn-git
+Learn GIT Video tutorials - https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx
+Learn Git challenges - https://try.github.io/levels/1/challenges/1
+Alternative link - https://www.codeschool.com/learn/git
