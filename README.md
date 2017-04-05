@@ -107,3 +107,10 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 * HTML
 
   Resources: 
+  
+# 2. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
+
+
+# 3. Machine Learning : Python, R, SQL
+
+
