@@ -87,7 +87,7 @@ Before contributing to a project you have to learn to develop it by learning the
 # Choose Wisely!!!!!!!!!!!!
 
 
-# Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
+## Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
 
 
 
