@@ -104,9 +104,41 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
 ### Technologies needed: 
 
-* HTML
 
-  Resources: 
+* ### HTML
+
+  HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text                        Markup     Language. HTML describes the structure of Web pages using markup.
+  Resources
+ FREECODECAMP - https://freecodecamp.com/  
+ CODEACADEMY - https://www.codecademy.com/learn/web
+ W3SCHOOL - https://www.w3schools.com/html/
+ 
+* ### CSS
+
+  CSS stands for Cascadind Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
+ FREECODECAMP - https://freecodecamp.com/  
+ CODEACADEMY - https://www.codecademy.com/learn/web
+ W3SCHOOL - https://www.w3schools.com/html/
+
+* ### Javascript
+
+ JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML documen, can provide dynamic interactivity on websites.
+    CODEACADEMY - https://www.codecademy.com/learn/javascript 
+    W3SCHOOL - https://www.w3schools.com/js/default.asp
+
+* ### Bootstraps
+  
+  Bootstraps is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
+  FREECODECAMP - https://freecodecamp.com/  
+  W3SCHOOL - https://www.w3schools.com/bootstrap/
+  
+
+## 1.2 BACKEND
+
+When you're building a website, you always need a similar set of components: a way to handle user authentication (signing up, signing in, signing out), a management panel for your website, forms, a way to upload files, etc.
+
+Luckily for you, other people long ago noticed that web developers face similar problems when building a new site, so they teamed up and created frameworks  that give you ready-made components to use.
+
   
 # 2. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
 
