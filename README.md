@@ -79,5 +79,31 @@ Alternative link - https://www.codeschool.com/learn/git
 ## Congratulations on getting this far!!! Now comes the real fun. Doing actual projects.
 
 
+Actual projects can be classified into many, there are loads of Open Source Projects on all fields and all languages, but we are making a list of projects which are most prominent and has the most oppertunities.
+
+Now you can decide what kind of project interests you by going through variety of projects given below.
+Before contributing to a project you have to learn to develop it by learning the languages used in developing the app.
+
+# Choose Wisely!!!!!!!!!!!!
 
 
+# Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
+
+
+
+# 1. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
+
+Web based projects can be anything to a website like Facebook, youtube, github. Or something like our college website, our attendance viewer are all web based projects but are not open source. 
+
+Web based projects has two parts Frontend and Backend, read more about it here, https://www.pluralsight.com/blog/film-games/whats-difference-front-end-back-end
+
+
+## 1.1 Frontend
+
+Frontend is basically what you see, the colors, the animations, the wonderful pictures, people with creativity basically does this. It is the most easy of all the projects and the scope and amount of projects for this are very high.
+
+### Technologies needed: 
+
+* HTML
+
+The main technical knowledge needed for this is 
