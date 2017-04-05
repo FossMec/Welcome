@@ -106,4 +106,4 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
 * HTML
 
-The main technical knowledge needed for this is 
+  Resources: 
