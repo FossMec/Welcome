@@ -90,6 +90,7 @@ Before contributing to a project you have to learn to develop it by learning the
 ## Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
 
 
+### You are always encouraged to search up on items you find confusing and do research and find out whether it is suitable for you to learn. 
 
 # 1. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
 
@@ -147,9 +148,7 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
 
 
-
-
-*  Django or Flask
+* ### Django or Flask
   If you're already knowledgeble in Python and interested in Web Development, I suggest you start with learning Django or Flask, Django is a free and open source web application framework, written in Python Instagram, National Geographic, Mozilla, Pintrest are some websites which run on django. Flask is a lighter version of Django
   
   DjangoGirls: https://tutorial.djangogirls.org/en/
@@ -160,46 +159,48 @@ Your website or dynamic web application is a sum of layers—structure, design a
   Flask-Doc: https://hackr.io/tutorials/learn-flask
   
 
-Ruby on Rails
-           Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
+* ### Ruby on Rails
+   Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
 
-        Links
-http://guides.rubyonrails.org/
-https://www.railstutorial.org/book/frontmatter
-http://railsforzombies.org
-Youtube Tutorials
+  Links
+  http://guides.rubyonrails.org/
+  https://www.railstutorial.org/book/frontmatter
+  http://railsforzombies.org
+  Youtube Tutorials
 
-PHP
-           PHP is a widely used open source scripting language.It is mostly used for web development 
-           and can be embedded into HTML.
-      
-      Links
-https://www.w3schools.com/php/
-http://www.learn-php.org/
-https://www.tutorialspoint.com/php/
+* ### PHP
+  PHP is a widely used open source scripting language.It is mostly used for web development 
+  and can be embedded into HTML.
 
-Node.js
-             Node.js is an open source, cross-platform runtime environment for developing server-side and              networking applications. Node.js also provides a rich library of various JavaScript modules                    which simplifies the development of web applications using Node.js to a great extent.
+  Links
+    http://www.learn-php.org/
+    https://www.tutorialspoint.com/php/
+    https://www.w3schools.com/php/
+
+
+* ### Node.js
+  Node.js is an open source, cross-platform runtime environment for developing server-side and  networking  applications. Node.js also provides a rich library of various JavaScript modules  which simplifies the development of web applications using Node.js to a great extent.
     Links
-freecodecamp.com/    
-https://www.tutorialspoint.com/nodejs/index.htm
-Youtube Tutorials
+ freecodecamp.com/    
+ https://www.tutorialspoint.com/nodejs/index.htm
+ Youtube Tutorials
 
-Rocket.rs
-           Rocket.rs is a framework build over RUST programming language.Being still in its
-           infancy,Rocket is less popular and still under development.
+* ### Rocket.rs
+     Rocket.rs is a framework build over RUST programming language.Being still in its
+     infancy,Rocket is less popular and still under development.
      Links
-https://rocket.rs/guide/
+     https://rocket.rs/guide/
 
 
-*  SQL
-  Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data.
+* ### SQL
+  Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
   Links
   https://www.codecademy.com/learn/learn-sql
   https://www.w3schools.com/sql/
 
 # 2. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
 
+  C/C++ is the most powerful programming language ever created. It is used to run everything from your operating system to power your android Device to making your desktop applications. C/C++ is everywhere and with an endless supply of projects with a deficiency in C/C++ developers it is one of the most sought out position with the most highest pay. To learn C/C++ to be a good developer takes time and and patience. One of the project for our college is our own operating system https://github.com/FossMec/Welcome/Current-Projects
 
 # 3. Machine Learning : Python, R, SQL
 
