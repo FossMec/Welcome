@@ -92,14 +92,45 @@ Before contributing to a project you have to learn to develop it by learning the
 
 ### You are always encouraged to search up on items you find confusing and do research and find out whether it is suitable for you to learn. 
 
-# 1. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
+# 1.SCRIPTING
+A scripting language is a programming language that employs a high-level construct to interpret and execute one command at a time. In general, scripting languages are easier to learn and faster to code in than more structured and compiled languages such as C and C++.
+
+## 1.1 Shell Scripting
+Shell scripts allow us to program commands in chains and have the system execute them as a scripted event, just like          batch files.Scripting allows you to use programming functions – such as ‘for’ loops, if/then/else statements, and so         forth – directly within your operating system’s interface.
+* ### Resources
+ Learn Shell- http://www.learnshell.org/
+ Bash Academy- http://www.bash.academy/
+
+## 1.2 Scripting Languages
+
+### Popular Technologies
+* ###- Python
+     Python being one of the most popular scripting languages is used over a variety of  platforms
+     for a variety of purposes ranging from Web-development to Machine Learning and much more..
+     Resources
+     LEARNTHEHARDWAY- https://learnpythonthehardway.org/
+     CODECADEMY- https://www.codecademy.com/learn/python
+     
+ * ### -Ruby
+    A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
+    Resources
+    LEARNTHEHARDWAY- https://learnrubythehardway.org/
+    CODECADEMY- https://www.codecademy.com/learn/ruby
+    
+ *### -Perl
+   Perl is a programming language designed especially for text processing.It possesses C like syntax.
+   Resources
+   LEARNPERL- https://learn.perl.org/
+   PERL E-BOOK- https://www.perl.org/books/beginning-perl/
+
+# 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
 
 Web based projects can be anything to a website like Facebook, youtube, github. Or something like our college website, our attendance viewer are all web based projects but are not open source. 
 
 Web based projects has two parts Frontend and Backend, read more about it here, https://www.pluralsight.com/blog/film-games/whats-difference-front-end-back-end
 
 
-## 1.1 Frontend
+## 2.1 Frontend
 
 Frontend is basically what you see, the colors, the animations, the wonderful pictures, people with creativity basically does this. It is the most easy of all the projects and the scope and amount of projects for frontend development is very high.
 
@@ -134,7 +165,7 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
   W3SCHOOL - https://www.w3schools.com/bootstrap/
   
 
-## 1.2 BACKEND
+## 2.2 BACKEND
 
 When you're building a website, you always need a similar set of components: a way to handle user authentication (signing up, signing in, signing out), a management panel for your website, forms, a way to upload files, etc.
 
@@ -198,7 +229,7 @@ Your website or dynamic web application is a sum of layers—structure, design a
   https://www.codecademy.com/learn/learn-sql
   https://www.w3schools.com/sql/
 
-# 2. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
+# 3. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
 
   C/C++ is the most powerful programming language ever created. It is used to run everything from your operating system to power your android Device to making your desktop applications. C/C++ is everywhere and with an endless supply of projects with a deficiency in C/C++ developers it is one of the most sought out position with the most highest pay. To learn C/C++ to be a good developer takes time and and patience. One of the project for our college is our own operating system https://github.com/FossMec/Welcome/Current-Projects
   
@@ -209,7 +240,7 @@ Your website or dynamic web application is a sum of layers—structure, design a
 * http://codeforces.com/problemset?order=BY_SOLVED_DESC (For coding challenges after learning C/C++)
 
 
-# 3. Machine Learning : Python, R, SQL
+# 4. Machine Learning : Python, R, SQL
 
 
 Modern computers are becoming more and more intelligent as time passes. Most of this is/can be attributed to machine learning. The definition of machine learning is that it is "a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed."
@@ -240,7 +271,7 @@ Learn Python below:
 
 
 
-# 4. Android Application Development Using Java
+# 5. Android Application Development Using Java
 
 Java is a programming language and computing platform first released by Sun Microsystems in 1995. There are lots of applications and websites that will not work unless you have Java installed, and more are created every day. Java is fast, secure, and reliable.
 
@@ -271,7 +302,7 @@ When stuck on a problem (which will inevitably happen), turn to Stack Overflow. 
 more details on android studio: https://developer.android.com/studio/index.html
 everything from setting up to using android studio is documented here.
 
-# 5. Google Summer of Code || Google Code-In
+# 6. Google Summer of Code || Google Code-In
 
 Google Code-in is a contest to introduce pre-university students (ages 13-17) to open source software development. Since 2010, over 3200 students from 99 countries have completed work in the contest.
 
