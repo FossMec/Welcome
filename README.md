@@ -204,6 +204,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
   
   Resource 
 
+* www.cprogramming.com
+* www.cppreference.com (For reference of commands, header files, etc)
+* http://codeforces.com/problemset?order=BY_SOLVED_DESC (For coding challenges after learning C/C++)
+
+
 # 3. Machine Learning : Python, R, SQL
 
 
@@ -228,8 +233,10 @@ Learn Python below:
 * www.pyschools.com/
 
 #### SQL
-* CODECADEMY: https://www.codecademy.com/learn/learn-sql
-* W3SCHOOLS: https://www.w3schools.com/sql/
+  Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
+  Links
+* https://www.codecademy.com/learn/learn-sql
+* https://www.w3schools.com/sql/
 
 
 
