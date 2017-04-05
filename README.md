@@ -1,4 +1,4 @@
-## Welcome
+# Welcome
 FOSS Cell at MEC aims at bringing out new coding talents and open source enthusiasts to come forward and contribute to the Open Source and to bring back the FOSS culture at MEC. The club is inspired by FOSSMeet held at MEC 7 years ago in 2010. Also it aims in promoting FOSS culture at the college level so as to make students aware of the changing trends in science and technology and to equip students to cope up with highly demanding jobs. One of the main motives of FOSS MEC is to introduce and train people in the field of open source make people
 
 ### Objectives
@@ -11,8 +11,27 @@ FOSS Cell at MEC aims at bringing out new coding talents and open source enthusi
 
 Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. According to scientists who studied it, open-source software is a prominent example of open collaboration. You can take software and change it according to your own wish.
 
-### "Okay! Sounds Cool but I'm a complete begi..
+## "Okay! Sounds Cool but I'm a complete begi..
 
-# ...beginner, how would I be able to cope up with being a software developer? Isn't it too difficult? Can I handle something like that?" 
+#### ...beginner, how would I be able to cope up with being a software developer? Isn't it too difficult? Can I handle something like that?" 
 This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. Like writing documentation, if you're a very good content writer then you could write manuals on how to use projects and stuff. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
 
+## Sounds Cool! Okay, I'm ready to get into FOSS! What do I do?
+
+Okay, So I guess you alread joined https://fosscellmec.slack.com ? If not go to the Whatsapp group and tell them to add you in!
+Let's explain slack, slack is a platform for collaborating with other people like you. You could give suggestions, ask programming questions and work on projects by asking help from people and know about ongoings. 
+#### I suggest you check in on slack everyday to make sure you don't miss out on anything.
+On the right hand side of slack, there are streams, it's exactly like different groups on whatsapp. Suppose you are learning C/C++, you ask all your questions and contact people specifically learning C/C++.
+On the general chat, there are everything from things happening on colleges and you can have general discussion there.
+There's also the slack android app, go to the playstore and install it!!!!!
+
+The important thing to note is that, you do not become a software developer overnight, it takes weeks and months of patience 
+and perseverence, it might be hard at first, then it gets interesting the more you get into it. So Don't give up!
+
+##### So your current task is to say Hi in the general stream in slack and check in everyday.
+
+#### Okay, so that's done, now what?
+
+Now lets get into something technical, the website you're reading this on is GitHub. You ask what is github? Official statement is that "GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project"
+So now lets put into simple words, Github is a platform similar to Google Drive, but instead of photos and stuff you upload your Software projects here, if you're developing a Operating System or Website you upload the Source Code here, for safekeeping and file sharing. You can build the same software from people all over the world with GitHub
+If you
