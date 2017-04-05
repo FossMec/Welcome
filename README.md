@@ -1,5 +1,5 @@
 # Welcome
-FOSS Cell at MEC aims at bringing out new coding talents and open source enthusiasts to come forward and contribute to the Open Source and to bring back the FOSS culture at MEC. The club is inspired by FOSSMeet held at MEC 7 years ago in 2010. Also it aims in promoting FOSS culture at the college level so as to make students aware of the changing trends in science and technology and to equip students to cope up with highly demanding jobs. One of the main motives of FOSS MEC is to introduce and train people in the field of open source make people
+FOSS Cell at MEC aims at bringing out new coding talents and open source enthusiasts to come forward and contribute to the Open Source and to bring back the FOSS culture at MEC. The club is inspired by FOSSMeet held at MEC 7 years ago in 2010. Also it aims in promoting FOSS culture at the college level so as to make the students aware of the changing trends in science and technology and to equip students to cope up with highly demanding jobs. One of the main motives of FOSS MEC is to introduce and train people in the field of open source and make students ready to face the growing challenges of day-to-day life.
 
 ### Objectives
 * To nurture your coding talents 
@@ -41,7 +41,7 @@ and perseverence, it might be hard at first, then it gets interesting the more y
 # LINUX
 ### This part is for people who are unfamiliar with LINUX commands, if you have basic knowledge of Linux and know how to get around the system, feel free to skip this part. 
 
-Basically there is no Open Source without linux, for becoming a developer the prime skills for you is using the command line, 
+Basically there is no Open Source without linux, for becoming a developer the prime skills required for you is using the command line, 
 that is the black box you type commands in. You can develop using windows too but it is most useful to have a Linux based system. Learn basic Linux Commands from here before proceeding.
 
 Feel free to follow any of the course here.
@@ -55,11 +55,11 @@ Command Line - https://www.learnenough.com/command-line-tutorial
 
 # GIT and GITHUB
 
-GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 56 million projects. The social network for programmer!!!!!!
+GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 56 million projects. It is effectively a social network for the programmer!!!!!!
 
 Now lets get into something technical, the website you're reading this on is GitHub. You ask what is github? Official statement is that "GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project"
 
-So now lets put into simple words, Github is a platform similar to Google Drive, but instead of photos and stuff you upload your Software projects here, if you're developing a Operating System or Website you upload the Source Code here, for safekeeping and file sharing. You can build the same software from people all over the world with GitHub.
+So now lets put into simple words, Github is a platform similar to Google Drive, but instead of photos and stuff you upload your Software projects here, if you're developing a Operating System or Website you upload the Source Code here, for safekeeping, file sharing and collaboration. You can build the same software from people all over the world with GitHub.
 
 So your first step into becoming a software developer is to learn git and learning to use github. 
 
@@ -100,7 +100,7 @@ Web based projects has two parts Frontend and Backend, read more about it here, 
 
 ## 1.1 Frontend
 
-Frontend is basically what you see, the colors, the animations, the wonderful pictures, people with creativity basically does this. It is the most easy of all the projects and the scope and amount of projects for this are very high.
+Frontend is basically what you see, the colors, the animations, the wonderful pictures, people with creativity basically does this. It is the most easy of all the projects and the scope and amount of projects for frontend development is very high.
 
 ### Technologies needed: 
 
@@ -203,7 +203,23 @@ https://rocket.rs/guide/
 
 # 3. Machine Learning : Python, R, SQL
 
-Machine learning is a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed. Machine learning focuses on the development of computer programs that can change when exposed to new data. The process of machine learning is similar to that of data mining.
+
+Modern computers are becoming more and more intelligent as time passes. Most of this is/can be attributed to machine learning. The definition of machine learning is that it is "a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed."
+
+Machine learning is an essential skill in most of IoT applications that are developed today. What more to say, it is built into most of the applications that we all use everyday! 
+Learning how to teach your machine to learn will be an important asset in your programming career.
+
+Some references for Machine Learning is provided below: 
+
+#### Python:
+* CODECADEMY: https://www.codecademy.com/learn/python
+* https://www.learnpython.org/
+* www.pyschools.com/
+
+#### SQL
+* CODECADEMY: https://www.codecademy.com/learn/learn-sql
+* W3SCHOOLS: https://www.w3schools.com/sql/
+
 
 Start from scratch: http://machinelearningmastery.com/start-here/
 http://neuralnetworksanddeeplearning.com/
@@ -239,3 +255,4 @@ Since its inception in 2005, the program has brought together 12,000+ student pa
 As a part of Google Summer of Code, student participants are paired with a mentor from the participating organizations, gaining exposure to real-world software development and techniques. Students have the opportunity to spend the break between their school semesters earning a stipend while working in areas related to their interests.
 
 In turn, the participating organizations are able to identify and bring in new developers who implement new features and hopefully continue to contribute to open source even after the program is over. Most importantly, more code is created and released for the use and benefit of all.
+
