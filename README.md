@@ -13,7 +13,7 @@ FOSS Cell at MEC aims at bringing out new coding talents and open source enthusi
 
 Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. According to scientists who studied it, open-source software is a prominent example of open collaboration. You can take software and change it according to your own wish.
 
-
+## No one teaches you how to become a developer in college, they teach you programming languages but companies wants developers. So how are people selected by big corporations 
 
 ## "Okay! Sounds Cool but I'm a complete begi..
 
@@ -73,5 +73,11 @@ Learn GIT Video tutorials - https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6
 
 Learn Git challenges - https://try.github.io/levels/1/challenges/1
 
-Alternative link - https://www.codeschool.com/learn/git'
+Alternative link - https://www.codeschool.com/learn/git
+
+
+## Congratulations on getting this far!!! Now comes the real fun. Doing actual projects.
+
+
+
 
