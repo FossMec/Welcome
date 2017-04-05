@@ -152,4 +152,11 @@ Learning how to teach your machine to learn will be an important asset in your p
 
 Some references for Machine Learning is provided below: 
 
+#### Python:
+* CODECADEMY: https://www.codecademy.com/learn/python
+* https://www.learnpython.org/
+* www.pyschools.com/
 
+#### SQL
+* CODECADEMY: https://www.codecademy.com/learn/learn-sql
+* W3SCHOOLS: https://www.w3schools.com/sql/
