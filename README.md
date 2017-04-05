@@ -201,6 +201,8 @@ Your website or dynamic web application is a sum of layers—structure, design a
 # 2. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
 
   C/C++ is the most powerful programming language ever created. It is used to run everything from your operating system to power your android Device to making your desktop applications. C/C++ is everywhere and with an endless supply of projects with a deficiency in C/C++ developers it is one of the most sought out position with the most highest pay. To learn C/C++ to be a good developer takes time and and patience. One of the project for our college is our own operating system https://github.com/FossMec/Welcome/Current-Projects
+  
+  Resource 
 
 # 3. Machine Learning : Python, R, SQL
 
@@ -209,8 +211,16 @@ Modern computers are becoming more and more intelligent as time passes. Most of 
 
 Machine learning is an essential skill in most of IoT applications that are developed today. What more to say, it is built into most of the applications that we all use everyday! 
 Learning how to teach your machine to learn will be an important asset in your programming career.
+There are thousands of machine learning projects.
 
 Some references for Machine Learning is provided below: 
+
+Start from scratch: http://machinelearningmastery.com/start-here/
+                    http://neuralnetworksanddeeplearning.com/
+
+#### For doing the above course basic python knowledge is required. 
+
+Learn Python below:
 
 #### Python:
 * CODECADEMY: https://www.codecademy.com/learn/python
@@ -221,9 +231,6 @@ Some references for Machine Learning is provided below:
 * CODECADEMY: https://www.codecademy.com/learn/learn-sql
 * W3SCHOOLS: https://www.w3schools.com/sql/
 
-
-Start from scratch: http://machinelearningmastery.com/start-here/
-http://neuralnetworksanddeeplearning.com/
 
 
 # 4. Java
