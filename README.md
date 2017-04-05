@@ -47,8 +47,11 @@ that is the black box you type commands in. You can develop using windows too bu
 Feel free to follow any of the course here.
 
 Command Line Codeacademy - https://www.codecademy.com/learn/learn-the-command-line
+
 Command Line Codeacademy - https://www.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command
+
 Command Line - https://www.learnenough.com/command-line-tutorial
+
 
 # GIT and GITHUB
 
@@ -65,6 +68,10 @@ Wisdom can be shared, we can only guide you on where to learn, it is your duty t
 Here is a list of to learn GIT!
 
 Learn GIT Codeacademy - https://www.codecademy.com/learn/learn-git
+
 Learn GIT Video tutorials - https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx
+
 Learn Git challenges - https://try.github.io/levels/1/challenges/1
-Alternative link - https://www.codeschool.com/learn/git
+
+Alternative link - https://www.codeschool.com/learn/git'
+
