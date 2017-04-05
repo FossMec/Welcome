@@ -13,7 +13,7 @@ FOSS Cell at MEC aims at bringing out new coding talents and open source enthusi
 
 Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. According to scientists who studied it, open-source software is a prominent example of open collaboration. You can take software and change it according to your own wish.
 
-
+## No one teaches you how to become a developer in college, they teach you programming languages but companies wants developers. So how are people selected by big corporations 
 
 ## "Okay! Sounds Cool but I'm a complete begi..
 
@@ -47,10 +47,15 @@ that is the black box you type commands in. You can develop using windows too bu
 Feel free to follow any of the course here.
 
 Command Line Codeacademy - https://www.codecademy.com/learn/learn-the-command-line
+
 Command Line Codeacademy - https://www.codecademy.com/en/courses/learn-the-command-line/lessons/navigation/exercises/your-first-command
+
 Command Line - https://www.learnenough.com/command-line-tutorial
 
+
 # GIT and GITHUB
+
+GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 56 million projects. The social network for programmer!!!!!!
 
 Now lets get into something technical, the website you're reading this on is GitHub. You ask what is github? Official statement is that "GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project"
 
@@ -59,3 +64,53 @@ So now lets put into simple words, Github is a platform similar to Google Drive,
 So your first step into becoming a software developer is to learn git and learning to use github. 
 
 Wisdom can be shared, we can only guide you on where to learn, it is your duty to learn. We will provide you with a list of resources to learn to get into git. And I again say NEVER GIVE UP!!!!!!
+
+Here is a list of to learn GIT!
+
+Learn GIT Codeacademy - https://www.codecademy.com/learn/learn-git
+
+Learn GIT Video tutorials - https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx
+
+Learn Git challenges - https://try.github.io/levels/1/challenges/1
+
+Alternative link - https://www.codeschool.com/learn/git
+
+
+## Congratulations on getting this far!!! Now comes the real fun. Doing actual projects.
+
+
+Actual projects can be classified into many, there are loads of Open Source Projects on all fields and all languages, but we are making a list of projects which are most prominent and has the most oppertunities.
+
+Now you can decide what kind of project interests you by going through variety of projects given below.
+Before contributing to a project you have to learn to develop it by learning the languages used in developing the app.
+
+# Choose Wisely!!!!!!!!!!!!
+
+
+## Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
+
+
+
+# 1. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
+
+Web based projects can be anything to a website like Facebook, youtube, github. Or something like our college website, our attendance viewer are all web based projects but are not open source. 
+
+Web based projects has two parts Frontend and Backend, read more about it here, https://www.pluralsight.com/blog/film-games/whats-difference-front-end-back-end
+
+
+## 1.1 Frontend
+
+Frontend is basically what you see, the colors, the animations, the wonderful pictures, people with creativity basically does this. It is the most easy of all the projects and the scope and amount of projects for this are very high.
+
+### Technologies needed: 
+
+* HTML
+
+  Resources: 
+  
+# 2. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
+
+
+# 3. Machine Learning : Python, R, SQL
+
+
