@@ -115,7 +115,7 @@ Shell scripts allow us to program commands in chains and have the system execute
      Resources
      
      LEARNTHEHARDWAY- https://learnpythonthehardway.org/
-     
+  
      CODECADEMY- https://www.codecademy.com/learn/python
      
  * ### -Ruby
@@ -124,7 +124,7 @@ Shell scripts allow us to program commands in chains and have the system execute
    Resources
     
     LEARNTHEHARDWAY- https://learnrubythehardway.org/
-    
+ 
     CODECADEMY- https://www.codecademy.com/learn/ruby
     
  * ### -Perl
@@ -133,7 +133,7 @@ Shell scripts allow us to program commands in chains and have the system execute
    Resources
    
    LEARNPERL- https://learn.perl.org/
-   
+
    PERL E-BOOK- https://www.perl.org/books/beginning-perl/
 
 # 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
@@ -154,33 +154,49 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
   HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text                        Markup     Language. HTML describes the structure of Web pages using markup.
   Resources
- FREECODECAMP - https://freecodecamp.com/  
+  
+ FREECODECAMP - https://freecodecamp.com/ 
+ 
  CODEACADEMY - https://www.codecademy.com/learn/web
+ 
  W3SCHOOL - https://www.w3schools.com/html/
+ 
  
 * ### CSS
 
   CSS stands for Cascadind Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
+  
  FREECODECAMP - https://freecodecamp.com/  
+ 
  CODEACADEMY - https://www.codecademy.com/learn/web
+ 
  W3SCHOOL - https://www.w3schools.com/html/
+ 
 
 * ### Javascript
 
  JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML documen, can provide dynamic interactivity on websites.
+ 
     CODEACADEMY - https://www.codecademy.com/learn/javascript 
+    
     W3SCHOOL - https://www.w3schools.com/js/default.asp
+    
 
 * ### Bootstraps
   
   Bootstraps is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
-  FREECODECAMP - https://freecodecamp.com/  
-  W3SCHOOL - https://www.w3schools.com/bootstrap/
+ 
+ FREECODECAMP - https://freecodecamp.com/  
   
+ W3SCHOOL - https://www.w3schools.com/bootstrap/
+ 
+ 
 * ### GIMP
    GIMP (GNU Image Manipulation Program ) is a freely distributed program for such tasks as photo retouching, image   composition and image authoring.
-   OFFICIAL TUTORIAL- https://www.gimp.org/tutorials/
-   Youtube
+ 
+ OFFICIAL TUTORIAL- https://www.gimp.org/tutorials/
+ 
+ Youtube
 
 ## 2.2 BACKEND
 
@@ -199,56 +215,81 @@ Your website or dynamic web application is a sum of layers—structure, design a
 * ### Django or Flask
   If you're already knowledgeble in Python and interested in Web Development, I suggest you start with learning Django or Flask, Django is a free and open source web application framework, written in Python Instagram, National Geographic, Mozilla, Pintrest are some websites which run on django. Flask is a lighter version of Django
   
-  DjangoGirls: https://tutorial.djangogirls.org/en/
-  Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
-  Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+ 
+ DjangoGirls: https://tutorial.djangogirls.org/en/
+ 
+ Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
+ 
+ Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
   
-  Flask-Documentation: https://www.tutorialspoint.com/flask/
-  Flask-Doc: https://hackr.io/tutorials/learn-flask
+ Flask-Documentation: https://www.tutorialspoint.com/flask/
+
+ Flask-Doc: https://hackr.io/tutorials/learn-flask
   
 
 * ### Ruby on Rails
    Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
 
-  Links
-  http://guides.rubyonrails.org/
-  https://www.railstutorial.org/book/frontmatter
-  http://railsforzombies.org
-  Youtube Tutorials
+ Links
+ 
+ http://guides.rubyonrails.org/
+ 
+ https://www.railstutorial.org/book/frontmatter
+ 
+ http://railsforzombies.org
+ 
+ Youtube Tutorials
+
 
 * ### PHP
   PHP is a widely used open source scripting language.It is mostly used for web development 
   and can be embedded into HTML.
 
   Links
-    http://www.learn-php.org/
-    https://www.tutorialspoint.com/php/
-    https://www.w3schools.com/php/
+
+ http://www.learn-php.org/
+ 
+ https://www.tutorialspoint.com/php/
+ 
+ https://www.w3schools.com/php/
+
 
 
 * ### Node.js
   Node.js is an open source, cross-platform runtime environment for developing server-side and  networking  applications. Node.js also provides a rich library of various JavaScript modules  which simplifies the development of web applications using Node.js to a great extent.
-    Links
+
+ Links
+
  freecodecamp.com/    
+
  https://www.tutorialspoint.com/nodejs/index.htm
+
  Youtube Tutorials
+
 
 * ### Rocket.rs
      Rocket.rs is a framework build over RUST programming language.Being still in its
      infancy,Rocket is less popular and still under development.
-     Links
-     https://rocket.rs/guide/
+ 
+ Links
+ 
+ https://rocket.rs/guide/
 
 
 * ### SQL
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
-  Links
-  https://www.codecademy.com/learn/learn-sql
-  https://www.w3schools.com/sql/
+ 
+ Links
+ 
+ https://www.codecademy.com/learn/learn-sql
+ 
+ https://www.w3schools.com/sql/
 
 # 3. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
 
-  C/C++ is the most powerful programming language ever created. It is used to run everything from your operating system to power your android Device to making your desktop applications. C/C++ is everywhere and with an endless supply of projects with a deficiency in C/C++ developers it is one of the most sought out position with the most highest pay. To learn C/C++ to be a good developer takes time and and patience. One of the project for our college is our own operating system https://github.com/FossMec/Welcome/Current-Projects
+  C/C++ is the most powerful programming language ever created. It is used to run everything from your operating system to power your android Device to making your desktop applications. C/C++ is everywhere and with an endless supply of projects with a deficiency in C/C++ developers it is one of the most sought out position with the most highest pay. To learn C/C++ to be a good developer takes time and and patience. One of the project for our college is our own operating system 
+  
+  https://github.com/FossMec/Welcome/Current-Projects
   
   Resource 
 
