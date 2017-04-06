@@ -289,13 +289,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
 Although any programmer may find himself content to writing code at breakneck speeds using Python, Ruby and the more "modern" languages, his/her repertoire is never complete without the understanding and mastery of the C/C++ family of languages. When dealing with C/C++, you are very nearly at the bare-metal level; the operating system libraries and all the intricacies of the hardware lay open to you. Regardless of your area of interest, some familiarity with these languages will go a long way in improving you knowledge of computers as a whole.
   
-*  https://github.com/FossMec/Welcome/Current-Projects
   
   Resources
 
 * www.tutorialspoint.com/cprogramming
 * en.m.wikibooks.org/wiki/C_Programming
-
 * www.cprogramming.com
 * www.cppreference.com (For reference of commands, header files, etc)
 * http://codeforces.com/problemset?order=BY_SOLVED_DESC (For coding challenges after learning C/C++)
