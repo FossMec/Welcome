@@ -172,11 +172,11 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
   CSS stands for Cascading Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
   
- *Free Code Camp - https://freecodecamp.com/  
+ * Free Code Camp - https://freecodecamp.com/  
  
- *Codecademy - https://www.codecademy.com/learn/web
+ * Codecademy - https://www.codecademy.com/learn/web
  
- *W3school - https://www.w3schools.com/html/
+ * W3school - https://www.w3schools.com/html/
  
 
 * ### Javascript
