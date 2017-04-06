@@ -1,48 +1,56 @@
 # Welcome
+
 FOSS Cell at MEC aims at bringing out new coding talents and open source enthusiasts to come forward and contribute to the Open Source and to bring back the FOSS culture at MEC. The club is inspired by FOSSMeet held at MEC 7 years ago in 2010. Also it aims in promoting FOSS culture at the college level so as to make the students aware of the changing trends in science and technology and to equip students to cope up with highly demanding jobs. One of the main motives of FOSS MEC is to introduce and train people in the field of open source and make students ready to face the growing challenges of day-to-day life.
 
 ### Objectives
+
 * To nurture your coding talents 
 * To give exposure in the open source community
 * To incorporate the concepts of open source into other fields such as IoT
-* To make you attain professional skills in the field of Computer Science for better job prospects.
-
-
+* To establish professional skills in the field of Computer Science for better job prospects.
 
 ### Completely new to Open Source? Keep READING!
 
 Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. According to scientists who studied it, open-source software is a prominent example of open collaboration. You can take software and change it according to your own wish.
 
-## No one teaches you how to become a developer in college, they teach you programming languages but companies wants developers. So how are people selected by big corporations 
+## Colleges may teach you programming, but not developing. Companies, however, are looking for developers. So how are people selected by big corporations? 
 
 ## "Okay! Sounds Cool but I'm a complete begi..
 
 #### ...beginner, how would I be able to cope up with being a software developer? Isn't it too difficult? Can I handle something like that?" 
-This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. Like writing documentation, if you're a very good content writer then you could write manuals on how to use projects and stuff. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
+
+This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. If you're a very good content writer then you could write manuals on how to use projects and other documentation related tasks. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
 
 ## Sounds Cool! Okay, I'm ready to get into FOSS! What do I do?
 
-Okay, So I guess you alread joined https://fosscellmec.slack.com ? If not go to the Whatsapp group and tell them to add you in!
-Let's explain slack, slack is a platform for collaborating with other people like you. You could give suggestions, ask programming questions and work on projects by asking help from people and know about ongoings. 
+Okay, so I guess you already joined https://fosscellmec.slack.com ? If not go to the Whatsapp group and tell them to add you in! Let's explain Slack. Slack is an instant messaging platform for collaborating with other developers. You could give suggestions, ask programming questions and work on projects by asking help from people and know about ongoings. 
 
 #### I suggest you check in on slack everyday to make sure you don't miss out on anything.
 
 On the right hand side of slack, there are streams, it's exactly like different groups on whatsapp. Suppose you are learning C/C++, you ask all your questions and contact people specifically learning C/C++.
-On the general chat, there are everything from things happening on colleges and you can have general discussion there.
-There's also the slack android app, go to the playstore and install it!!!!!
 
-The important thing to note is that, you do not become a software developer overnight, it takes weeks and months of patience 
-and perseverence, it might be hard at first, then it gets interesting the more you get into it. So Don't give up!
+The general chat enables users to get updated with college news and participate in group discussions.
+Moreover, the Slack mobile apps equips users with portability and news updates on the go. 
+
+* ANDROID: https://play.google.com/store/apps/details?id=com.Slack&hl=en
+* MICROSOFT: https://www.microsoft.com/en-us/store/p/slack/9wzdncrdk3wp
+
+Always remember, you do not become a software developer overnight, it takes weeks and months of patience 
+and perseverence. Diving in might be hard, but the more you explore, the better it gets. So don't give up!
 
 ### Task 1: So your current task is to say Hi in the general stream in slack and check in everyday.
+
+Go through this wonderful tutorial on being a developer or bookmark this to go through this link later! This is the ultimate bible for developers!!!
+
+https://www.pluralsight.com/courses/get-involved
 
 #### Okay, so that's done, now what?
 
 # LINUX
+
 ### This part is for people who are unfamiliar with LINUX commands, if you have basic knowledge of Linux and know how to get around the system, feel free to skip this part. 
 
-Basically there is no Open Source without linux, for becoming a developer the prime skills required for you is using the command line, 
-that is the black box you type commands in. You can develop using windows too but it is most useful to have a Linux based system. Learn basic Linux Commands from here before proceeding.
+Basically there is no Open Source without linux, for becoming a developer the prime skills required for you is using the command line, that is the black box you type commands in. You can develop using windows too but it is most useful to have a Linux based system. Learn basic Linux Commands from here before proceeding.
 
 Feel free to follow any of the course here.
 
@@ -78,7 +86,6 @@ Alternative link - https://www.codeschool.com/learn/git
 
 ## Congratulations on getting this far!!! Now comes the real fun. Doing actual projects.
 
-
 Actual projects can be classified into many, there are loads of Open Source Projects on all fields and all languages, but we are making a list of projects which are most prominent and has the most oppertunities.
 
 Now you can decide what kind of project interests you by going through variety of projects given below.
@@ -86,42 +93,54 @@ Before contributing to a project you have to learn to develop it by learning the
 
 # Choose Wisely!!!!!!!!!!!!
 
-
 ## Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
-
 
 ### You are always encouraged to search up on items you find confusing and do research and find out whether it is suitable for you to learn. 
 
 # 1.SCRIPTING
+
 A scripting language is a programming language that employs a high-level construct to interpret and execute one command at a time. In general, scripting languages are easier to learn and faster to code in than more structured and compiled languages such as C and C++.
 
 ## 1.1 Shell Scripting
+
 Shell scripts allow us to program commands in chains and have the system execute them as a scripted event, just like          batch files.Scripting allows you to use programming functions – such as ‘for’ loops, if/then/else statements, and so         forth – directly within your operating system’s interface.
-* ### Resources
- Learn Shell- http://www.learnshell.org/
- Bash Academy- http://www.bash.academy/
+
+### Resources
+
+* Learn Shell- http://www.learnshell.org/
+* Bash Academy- http://www.bash.academy/
 
 ## 1.2 Scripting Languages
 
 ### Popular Technologies
+
 * ### -Python
      Python being one of the most popular scripting languages is used over a variety of  platforms
      for a variety of purposes ranging from Web-development to Machine Learning and much more..
+    
      Resources
-LEARNTHEHARDWAY- https://learnpythonthehardway.org/
-CODECADEMY- https://www.codecademy.com/learn/python
+     
+  * Learn the hard way - https://learnpythonthehardway.org/
+  
+  * Codecademy- https://www.codecademy.com/learn/python
      
  * ### -Ruby
     A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
-    Resources
-LEARNTHEHARDWAY- https://learnrubythehardway.org/
-CODECADEMY- https://www.codecademy.com/learn/ruby
+   
+   Resources
+    
+    * Learn the hard way- https://learnrubythehardway.org/
+ 
+    * Codecademy- https://www.codecademy.com/learn/ruby
     
  * ### -Perl
    Perl is a programming language designed especially for text processing.It possesses C like syntax.
+   
    Resources
-LEARNPERL- https://learn.perl.org/
-PERL E-BOOK- https://www.perl.org/books/beginning-perl/
+   
+   * Learn Perl- https://learn.perl.org/
+
+   * Perl E-Book- https://www.perl.org/books/beginning-perl/
 
 # 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
 
@@ -139,31 +158,51 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
 * ### HTML
 
-  HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text                        Markup     Language. HTML describes the structure of Web pages using markup.
+  HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text  Markup  Language. HTML describes the structure of Web pages using markup.
   Resources
- FREECODECAMP - https://freecodecamp.com/  
- CODEACADEMY - https://www.codecademy.com/learn/web
- W3SCHOOL - https://www.w3schools.com/html/
+  
+     * Free Code Camp - https://freecodecamp.com/ 
+ 
+     * Codecademy - https://www.codecademy.com/learn/web
+ 
+     * W3school - https://www.w3schools.com/html/
+ 
  
 * ### CSS
 
-  CSS stands for Cascadind Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
- FREECODECAMP - https://freecodecamp.com/  
- CODEACADEMY - https://www.codecademy.com/learn/web
- W3SCHOOL - https://www.w3schools.com/html/
+  CSS stands for Cascading Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
+  
+     * Free Code Camp - https://freecodecamp.com/  
+ 
+     * Codecademy - https://www.codecademy.com/learn/web
+ 
+     * W3school - https://www.w3schools.com/html/
+ 
 
 * ### Javascript
 
  JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML documen, can provide dynamic interactivity on websites.
-    CODEACADEMY - https://www.codecademy.com/learn/javascript 
-    W3SCHOOL - https://www.w3schools.com/js/default.asp
+ 
+    * Codecademy - https://www.codecademy.com/learn/javascript 
+    
+    * W3school - https://www.w3schools.com/js/default.asp
+    
 
-* ### Bootstraps
+* ### Bootstrap
   
-  Bootstraps is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
-  FREECODECAMP - https://freecodecamp.com/  
-  W3SCHOOL - https://www.w3schools.com/bootstrap/
+  Bootstrap is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
+ 
+     * Free Code Camp - https://freecodecamp.com/  
   
+     * W3school - https://www.w3schools.com/bootstrap/
+ 
+ 
+* ### GIMP
+   GIMP (GNU Image Manipulation Program ) is a freely distributed program for such tasks as photo retouching, image   composition and image authoring.
+ 
+     * Official Tutorial- https://www.gimp.org/tutorials/
+ 
+ *Youtube
 
 ## 2.2 BACKEND
 
@@ -177,71 +216,89 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
 ### Major Web-Frameworks and  Technologies Needed
 
-
-
 * ### Django or Flask
   If you're already knowledgeble in Python and interested in Web Development, I suggest you start with learning Django or Flask, Django is a free and open source web application framework, written in Python Instagram, National Geographic, Mozilla, Pintrest are some websites which run on django. Flask is a lighter version of Django
   
-  DjangoGirls: https://tutorial.djangogirls.org/en/
-  Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
-  Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
-  
-  Flask-Documentation: https://www.tutorialspoint.com/flask/
-  Flask-Doc: https://hackr.io/tutorials/learn-flask
+ 
+     * DjangoGirls: https://tutorial.djangogirls.org/en/
+ 
+     * Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
+ 
+     * Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+ 
+     * Flask-Documentation: https://www.tutorialspoint.com/flask/
+ 
+     * Flask-Doc: https://hackr.io/tutorials/learn-flask
   
 
 * ### Ruby on Rails
    Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
 
-  Links
-  http://guides.rubyonrails.org/
-  https://www.railstutorial.org/book/frontmatter
-  http://railsforzombies.org
-  Youtube Tutorials
+ Links
+ 
+     * Official Rails Documentation -http://guides.rubyonrails.org/
+ 
+     * Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
+ 
+     * Code School -http://railsforzombies.org
+
 
 * ### PHP
   PHP is a widely used open source scripting language.It is mostly used for web development 
   and can be embedded into HTML.
 
   Links
-    http://www.learn-php.org/
-    https://www.tutorialspoint.com/php/
-    https://www.w3schools.com/php/
+
+     * Learn PHP -http://www.learn-php.org/
+ 
+     * Tutorialspoint- https://www.tutorialspoint.com/php/
+ 
+     * W3school -https://www.w3schools.com/php/
+
 
 
 * ### Node.js
   Node.js is an open source, cross-platform runtime environment for developing server-side and  networking  applications. Node.js also provides a rich library of various JavaScript modules  which simplifies the development of web applications using Node.js to a great extent.
-    Links
- freecodecamp.com/    
- https://www.tutorialspoint.com/nodejs/index.htm
- Youtube Tutorials
+
+ Links
+
+     * www.freecodecamp.com/    
+ 
+     * https://www.tutorialspoint.com/nodejs/index.htm
+ 
+     * Youtube Tutorials
+
 
 * ### Rocket.rs
      Rocket.rs is a framework build over RUST programming language.Being still in its
      infancy,Rocket is less popular and still under development.
-     Links
-     https://rocket.rs/guide/
+ 
+ Links
+* https://rocket.rs/guide/
 
 
 * ### SQL
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
-  Links
-  https://www.codecademy.com/learn/learn-sql
-  https://www.w3schools.com/sql/
+ 
+ Links
+     * https://www.codecademy.com/learn/learn-sql
+ 
+     * https://www.w3schools.com/sql/
 
-# 3. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
+# 3. C/C++ programming & Operating Systems
 
-  C/C++ is the most powerful programming language ever created. It is used to run everything from your operating system to power your android Device to making your desktop applications. C/C++ is everywhere and with an endless supply of projects with a deficiency in C/C++ developers it is one of the most sought out position with the most highest pay. To learn C/C++ to be a good developer takes time and and patience. One of the project for our college is our own operating system https://github.com/FossMec/Welcome/Current-Projects
+Although any programmer may find himself content to writing code at breakneck speeds using Python, Ruby and the more "modern" languages, his/her repertoire is never complete without the understanding and mastery of the C/C++ family of languages. When dealing with C/C++, you are very nearly at the bare-metal level; the operating system libraries and all the intricacies of the hardware lay open to you. Regardless of your area of interest, some familiarity with these languages will go a long way in improving you knowledge of computers as a whole.
   
-  Resource 
+  
+  Resources
 
+* www.tutorialspoint.com/cprogramming
+* en.m.wikibooks.org/wiki/C_Programming
 * www.cprogramming.com
 * www.cppreference.com (For reference of commands, header files, etc)
 * http://codeforces.com/problemset?order=BY_SOLVED_DESC (For coding challenges after learning C/C++)
 
-
 # 4. Machine Learning : Python, R, SQL
-
 
 Modern computers are becoming more and more intelligent as time passes. Most of this is/can be attributed to machine learning. The definition of machine learning is that it is "a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed."
 
@@ -260,13 +317,16 @@ Learn Python below:
 
 #### Python:
 * CODECADEMY: https://www.codecademy.com/learn/python
+
 * https://www.learnpython.org/
+
 * www.pyschools.com/
 
 #### SQL
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
   Links
 * https://www.codecademy.com/learn/learn-sql
+
 * https://www.w3schools.com/sql/
 
 
@@ -292,14 +352,14 @@ Eclipse and android studio are the IDEs recommended for a beginner.
 
 ### 5 THINGS TO KNOW BEFORE BUILDING YOUR FIRST ANDROID APP:
 
-You need to learn Java, there is no way around it
-Android part encompasses learning XML for the app design, understanding concepts of Android and using said concepts programmatically with Java
-Beginners should probably use an IDE (PraneethVT preferred Android Studio over Eclipse)
-Building your first app is time-consuming: it won't happen overnight. This is not a project for those looking for a fast result
-When stuck on a problem (which will inevitably happen), turn to Stack Overflow. If no luck there, look to the Android Subreddit where there is a helpful community
+* You need to learn Java, there is no way around it
+* Android part encompasses learning XML for the app design, understanding concepts of Android and using said concepts programmatically with Java
+* Beginners should probably use an IDE (We prefer Android Studio over Eclipse)
+* Building your first app is time-consuming: it won't happen overnight. This is not a project for those looking for a fast result
+* When stuck on a problem (which will inevitably happen), turn to Stack Overflow. If no luck there, look to the Android Subreddit where there is a helpful community
 
 
-more details on android studio: https://developer.android.com/studio/index.html
+For more details on android studio: https://developer.android.com/studio/index.html
 everything from setting up to using android studio is documented here.
 
 # 6. Google Summer of Code || Google Code-In
