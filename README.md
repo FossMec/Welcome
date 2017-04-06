@@ -160,23 +160,23 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
   HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text  Markup  Language. HTML describes the structure of Web pages using markup.
   Resources
-  
- * Free Code Camp - https://freecodecamp.com/ 
- 
- * Codecademy - https://www.codecademy.com/learn/web
- 
- * W3school - https://www.w3schools.com/html/
+
+     * Free Code Camp - https://freecodecamp.com/ 
+
+     * Codecademy - https://www.codecademy.com/learn/web
+
+     * W3school - https://www.w3schools.com/html/
  
  
 * ### CSS
 
   CSS stands for Cascading Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
-  
- * Free Code Camp - https://freecodecamp.com/  
- 
- * Codecademy - https://www.codecademy.com/learn/web
- 
- * W3school - https://www.w3schools.com/html/
+
+     * Free Code Camp - https://freecodecamp.com/  
+
+     * Codecademy - https://www.codecademy.com/learn/web
+
+     * W3school - https://www.w3schools.com/html/
  
 
 * ### Javascript
@@ -184,18 +184,18 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
  JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML document, can provide dynamic 
  interactivity on websites.  
  
- * Codecademy - https://www.codecademy.com/learn/javascript 
+    * Codecademy - https://www.codecademy.com/learn/javascript 
 
- * W3school - https://www.w3schools.com/js/default.asp
+    * W3school - https://www.w3schools.com/js/default.asp
     
 
 * ### Bootstrap
   
   Bootstrap is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
- 
- * Free Code Camp - https://freecodecamp.com/  
-  
- * W3school - https://www.w3schools.com/bootstrap/
+
+     * Free Code Camp - https://freecodecamp.com/  
+
+     * W3school - https://www.w3schools.com/bootstrap/
  
  
 * ### GIMP
@@ -262,11 +262,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
   Node.js is an open source, cross-platform runtime environment for developing server-side and  networking  applications. Node.js also provides a rich library of various JavaScript modules  which simplifies the development of web applications using Node.js to a great extent.
 
  Links
-     * www.freecodecamp.com/    
- 
-     * https://www.tutorialspoint.com/nodejs/index.htm
- 
-     * Youtube Tutorials
+        * www.freecodecamp.com/    
+
+        * https://www.tutorialspoint.com/nodejs/index.htm
+
+        * Youtube Tutorials
 
 
 * ### Rocket.rs
