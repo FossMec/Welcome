@@ -5,7 +5,7 @@ FOSS Cell at MEC aims at bringing out new coding talents and open source enthusi
 * To nurture your coding talents 
 * To give exposure in the open source community
 * To incorporate the concepts of open source into other fields such as IoT
-* To make you attain professional skills in the field of Computer Science for better job prospects.
+* To establish professional skills in the field of Computer Science for better job prospects.
 
 
 
@@ -13,26 +13,28 @@ FOSS Cell at MEC aims at bringing out new coding talents and open source enthusi
 
 Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. According to scientists who studied it, open-source software is a prominent example of open collaboration. You can take software and change it according to your own wish.
 
-## No one teaches you how to become a developer in college, they teach you programming languages but companies wants developers. So how are people selected by big corporations 
+## Colleges may teach you programming, but not developing. Companies, however, are looking for developers. So how are people selected by big corporations? 
 
 ## "Okay! Sounds Cool but I'm a complete begi..
 
 #### ...beginner, how would I be able to cope up with being a software developer? Isn't it too difficult? Can I handle something like that?" 
-This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. Like writing documentation, if you're a very good content writer then you could write manuals on how to use projects and stuff. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
+This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. If you're a very good content writer then you could write manuals on how to use projects and other documentation related tasks. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
 
 ## Sounds Cool! Okay, I'm ready to get into FOSS! What do I do?
 
-Okay, So I guess you alread joined https://fosscellmec.slack.com ? If not go to the Whatsapp group and tell them to add you in!
-Let's explain slack, slack is a platform for collaborating with other people like you. You could give suggestions, ask programming questions and work on projects by asking help from people and know about ongoings. 
+Okay, so I guess you already joined https://fosscellmec.slack.com ? If not go to the Whatsapp group and tell them to add you in!
+Let's explain slack. Slack is an instant messaging platform for collaborating with other developers. You could give suggestions, ask programming questions and work on projects by asking help from people and know about ongoings. 
 
 #### I suggest you check in on slack everyday to make sure you don't miss out on anything.
 
 On the right hand side of slack, there are streams, it's exactly like different groups on whatsapp. Suppose you are learning C/C++, you ask all your questions and contact people specifically learning C/C++.
-On the general chat, there are everything from things happening on colleges and you can have general discussion there.
-There's also the slack android app, go to the playstore and install it!!!!!
+The general chat enables users to get updated with college news and participate in group discussions.
+Moreover, the Slack mobile apps equips users with portability and news updates on the go. 
+* ANDROID: https://play.google.com/store/apps/details?id=com.Slack&hl=en
+* MICROSOFT: https://www.microsoft.com/en-us/store/p/slack/9wzdncrdk3wp
 
-The important thing to note is that, you do not become a software developer overnight, it takes weeks and months of patience 
-and perseverence, it might be hard at first, then it gets interesting the more you get into it. So Don't give up!
+Always remember, you do not become a software developer overnight, it takes weeks and months of patience 
+and perseverence. Diving in might be hard, but the more you explore, the better it gets. So don't give up!
 
 ### Task 1: So your current task is to say Hi in the general stream in slack and check in everyday.
 
