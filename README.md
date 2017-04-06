@@ -113,26 +113,27 @@ Shell scripts allow us to program commands in chains and have the system execute
     
      Resources
      
-  *Learn the hard way - https://learnpythonthehardway.org/
-  *Codecademy- https://www.codecademy.com/learn/python
+  * Learn the hard way - https://learnpythonthehardway.org/
+  
+  * Codecademy- https://www.codecademy.com/learn/python
      
  * ### -Ruby
     A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
    
    Resources
     
-    *Learn the hard way- https://learnrubythehardway.org/
+    * Learn the hard way- https://learnrubythehardway.org/
  
-    *Codecademy- https://www.codecademy.com/learn/ruby
+    * Codecademy- https://www.codecademy.com/learn/ruby
     
  * ### -Perl
    Perl is a programming language designed especially for text processing.It possesses C like syntax.
    
    Resources
    
-   *Learn Perl- https://learn.perl.org/
+   * Learn Perl- https://learn.perl.org/
 
-   *Perl E-Book- https://www.perl.org/books/beginning-perl/
+   * Perl E-Book- https://www.perl.org/books/beginning-perl/
 
 # 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
 
@@ -154,7 +155,9 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
   Resources
   
  *Free Code Camp - https://freecodecamp.com/ 
+ 
  *Codecademy - https://www.codecademy.com/learn/web
+ 
  *W3school - https://www.w3schools.com/html/
  
  
@@ -213,9 +216,13 @@ Your website or dynamic web application is a sum of layers—structure, design a
   
  
  *DjangoGirls: https://tutorial.djangogirls.org/en/
+ 
  *Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
+ 
  *Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+ 
  *Flask-Documentation: https://www.tutorialspoint.com/flask/
+ 
  *Flask-Doc: https://hackr.io/tutorials/learn-flask
   
 
@@ -225,8 +232,10 @@ Your website or dynamic web application is a sum of layers—structure, design a
  Links
  
   *Official Rails Documentation -http://guides.rubyonrails.org/
-  *Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
-  *Code School -http://railsforzombies.org
+ 
+ *Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
+ 
+ *Code School -http://railsforzombies.org
 
 
 * ### PHP
@@ -249,7 +258,9 @@ Your website or dynamic web application is a sum of layers—structure, design a
  Links
 
  *www.freecodecamp.com/    
+ 
  *https://www.tutorialspoint.com/nodejs/index.htm
+ 
  *Youtube Tutorials
 
 
@@ -302,13 +313,16 @@ Learn Python below:
 
 #### Python:
 * CODECADEMY: https://www.codecademy.com/learn/python
+
 * https://www.learnpython.org/
+
 * www.pyschools.com/
 
 #### SQL
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
   Links
 * https://www.codecademy.com/learn/learn-sql
+
 * https://www.w3schools.com/sql/
 
 
@@ -336,7 +350,7 @@ Eclipse and android studio are the IDEs recommended for a beginner.
 
 * You need to learn Java, there is no way around it
 * Android part encompasses learning XML for the app design, understanding concepts of Android and using said concepts programmatically with Java
-* Beginners should probably use an IDE (PraneethVT preferred Android Studio over Eclipse)
+* Beginners should probably use an IDE (We prefer Android Studio over Eclipse)
 * Building your first app is time-consuming: it won't happen overnight. This is not a project for those looking for a fast result
 * When stuck on a problem (which will inevitably happen), turn to Stack Overflow. If no luck there, look to the Android Subreddit where there is a helpful community
 
