@@ -110,20 +110,20 @@ Shell scripts allow us to program commands in chains and have the system execute
      Python being one of the most popular scripting languages is used over a variety of  platforms
      for a variety of purposes ranging from Web-development to Machine Learning and much more..
      Resources
-LEARNTHEHARDWAY- https://learnpythonthehardway.org/
-CODECADEMY- https://www.codecademy.com/learn/python
+     LEARNTHEHARDWAY- https://learnpythonthehardway.org/
+     CODECADEMY- https://www.codecademy.com/learn/python
      
  * ### -Ruby
     A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
     Resources
-LEARNTHEHARDWAY- https://learnrubythehardway.org/
-CODECADEMY- https://www.codecademy.com/learn/ruby
+    LEARNTHEHARDWAY- https://learnrubythehardway.org/
+    CODECADEMY- https://www.codecademy.com/learn/ruby
     
  * ### -Perl
    Perl is a programming language designed especially for text processing.It possesses C like syntax.
    Resources
-LEARNPERL- https://learn.perl.org/
-PERL E-BOOK- https://www.perl.org/books/beginning-perl/
+   LEARNPERL- https://learn.perl.org/
+   PERL E-BOOK- https://www.perl.org/books/beginning-perl/
 
 # 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
 
@@ -166,6 +166,10 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
   FREECODECAMP - https://freecodecamp.com/  
   W3SCHOOL - https://www.w3schools.com/bootstrap/
   
+* ### GIMP
+   GIMP (GNU Image Manipulation Program ) is a freely distributed program for such tasks as photo retouching, image   composition and image authoring.
+   OFFICIAL TUTORIAL- https://www.gimp.org/tutorials/
+   Youtube
 
 ## 2.2 BACKEND
 
