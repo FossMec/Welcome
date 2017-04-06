@@ -235,11 +235,12 @@ Your website or dynamic web application is a sum of layers—structure, design a
 * ### Ruby on Rails
    Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
 
- Links
+   Links
+    
      * Official Rails Documentation -http://guides.rubyonrails.org/
  
      * Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
- 
+
      * Code School -http://railsforzombies.org
 
 
