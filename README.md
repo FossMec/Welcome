@@ -305,7 +305,7 @@ Eclipse and android studio are the IDEs recommended for a beginner.
 * When stuck on a problem (which will inevitably happen), turn to Stack Overflow. If no luck there, look to the Android Subreddit where there is a helpful community
 
 
-more details on android studio: https://developer.android.com/studio/index.html
+For more details on android studio: https://developer.android.com/studio/index.html
 everything from setting up to using android studio is documented here.
 
 # 6. Google Summer of Code || Google Code-In
