@@ -298,11 +298,11 @@ Eclipse and android studio are the IDEs recommended for a beginner.
 
 ### 5 THINGS TO KNOW BEFORE BUILDING YOUR FIRST ANDROID APP:
 
-You need to learn Java, there is no way around it
-Android part encompasses learning XML for the app design, understanding concepts of Android and using said concepts programmatically with Java
-Beginners should probably use an IDE (PraneethVT preferred Android Studio over Eclipse)
-Building your first app is time-consuming: it won't happen overnight. This is not a project for those looking for a fast result
-When stuck on a problem (which will inevitably happen), turn to Stack Overflow. If no luck there, look to the Android Subreddit where there is a helpful community
+* You need to learn Java, there is no way around it
+* Android part encompasses learning XML for the app design, understanding concepts of Android and using said concepts programmatically with Java
+* Beginners should probably use an IDE (PraneethVT preferred Android Studio over Eclipse)
+* Building your first app is time-consuming: it won't happen overnight. This is not a project for those looking for a fast result
+* When stuck on a problem (which will inevitably happen), turn to Stack Overflow. If no luck there, look to the Android Subreddit where there is a helpful community
 
 
 more details on android studio: https://developer.android.com/studio/index.html
