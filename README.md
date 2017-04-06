@@ -161,46 +161,46 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
   HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text  Markup  Language. HTML describes the structure of Web pages using markup.
   Resources
   
- *Free Code Camp - https://freecodecamp.com/ 
+     * Free Code Camp - https://freecodecamp.com/ 
  
- *Codecademy - https://www.codecademy.com/learn/web
+     * Codecademy - https://www.codecademy.com/learn/web
  
- *W3school - https://www.w3schools.com/html/
+     * W3school - https://www.w3schools.com/html/
  
  
 * ### CSS
 
   CSS stands for Cascading Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
   
- * Free Code Camp - https://freecodecamp.com/  
+     * Free Code Camp - https://freecodecamp.com/  
  
- * Codecademy - https://www.codecademy.com/learn/web
+     * Codecademy - https://www.codecademy.com/learn/web
  
- * W3school - https://www.w3schools.com/html/
+     * W3school - https://www.w3schools.com/html/
  
 
 * ### Javascript
 
  JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML documen, can provide dynamic interactivity on websites.
  
-    *Codecademy - https://www.codecademy.com/learn/javascript 
+    * Codecademy - https://www.codecademy.com/learn/javascript 
     
-    *W3school - https://www.w3schools.com/js/default.asp
+    * W3school - https://www.w3schools.com/js/default.asp
     
 
 * ### Bootstrap
   
   Bootstrap is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
  
- *Free Code Camp - https://freecodecamp.com/  
+     * Free Code Camp - https://freecodecamp.com/  
   
- *W3school - https://www.w3schools.com/bootstrap/
+     * W3school - https://www.w3schools.com/bootstrap/
  
  
 * ### GIMP
    GIMP (GNU Image Manipulation Program ) is a freely distributed program for such tasks as photo retouching, image   composition and image authoring.
  
- *Official Tutorial- https://www.gimp.org/tutorials/
+     * Official Tutorial- https://www.gimp.org/tutorials/
  
  *Youtube
 
@@ -220,15 +220,15 @@ Your website or dynamic web application is a sum of layers—structure, design a
   If you're already knowledgeble in Python and interested in Web Development, I suggest you start with learning Django or Flask, Django is a free and open source web application framework, written in Python Instagram, National Geographic, Mozilla, Pintrest are some websites which run on django. Flask is a lighter version of Django
   
  
- *DjangoGirls: https://tutorial.djangogirls.org/en/
+     * DjangoGirls: https://tutorial.djangogirls.org/en/
  
- *Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
+     * Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
  
- *Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+     * Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
  
- *Flask-Documentation: https://www.tutorialspoint.com/flask/
+     * Flask-Documentation: https://www.tutorialspoint.com/flask/
  
- *Flask-Doc: https://hackr.io/tutorials/learn-flask
+     * Flask-Doc: https://hackr.io/tutorials/learn-flask
   
 
 * ### Ruby on Rails
@@ -236,11 +236,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
  Links
  
-  *Official Rails Documentation -http://guides.rubyonrails.org/
+     * Official Rails Documentation -http://guides.rubyonrails.org/
  
- *Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
+     * Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
  
- *Code School -http://railsforzombies.org
+     * Code School -http://railsforzombies.org
 
 
 * ### PHP
@@ -249,11 +249,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
   Links
 
- *Learn PHP -http://www.learn-php.org/
+     * Learn PHP -http://www.learn-php.org/
  
- *Tutorialspoint- https://www.tutorialspoint.com/php/
+     * Tutorialspoint- https://www.tutorialspoint.com/php/
  
- *W3school -https://www.w3schools.com/php/
+     * W3school -https://www.w3schools.com/php/
 
 
 
@@ -262,11 +262,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
  Links
 
- *www.freecodecamp.com/    
+     * www.freecodecamp.com/    
  
- *https://www.tutorialspoint.com/nodejs/index.htm
+     * https://www.tutorialspoint.com/nodejs/index.htm
  
- *Youtube Tutorials
+     * Youtube Tutorials
 
 
 * ### Rocket.rs
@@ -281,9 +281,9 @@ Your website or dynamic web application is a sum of layers—structure, design a
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
  
  Links
- * https://www.codecademy.com/learn/learn-sql
+     * https://www.codecademy.com/learn/learn-sql
  
- * https://www.w3schools.com/sql/
+     * https://www.w3schools.com/sql/
 
 # 3. C/C++ programming & Operating Systems
 
