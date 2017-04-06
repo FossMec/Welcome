@@ -161,40 +161,41 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
   HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text  Markup  Language. HTML describes the structure of Web pages using markup.
   Resources
   
-     * Free Code Camp - https://freecodecamp.com/ 
+ * Free Code Camp - https://freecodecamp.com/ 
  
-     * Codecademy - https://www.codecademy.com/learn/web
+ * Codecademy - https://www.codecademy.com/learn/web
  
-     * W3school - https://www.w3schools.com/html/
+ * W3school - https://www.w3schools.com/html/
  
  
 * ### CSS
 
   CSS stands for Cascading Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
   
-     * Free Code Camp - https://freecodecamp.com/  
+ * Free Code Camp - https://freecodecamp.com/  
  
-     * Codecademy - https://www.codecademy.com/learn/web
+ * Codecademy - https://www.codecademy.com/learn/web
  
-     * W3school - https://www.w3schools.com/html/
+ * W3school - https://www.w3schools.com/html/
  
 
 * ### Javascript
 
- JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML document, can provide dynamic interactivity on websites.
-  
-     * Codecademy - https://www.codecademy.com/learn/javascript 
-    
-     * W3school - https://www.w3schools.com/js/default.asp
+ JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML document, can provide dynamic 
+ interactivity on websites.  
+ 
+ * Codecademy - https://www.codecademy.com/learn/javascript 
+
+ * W3school - https://www.w3schools.com/js/default.asp
     
 
 * ### Bootstrap
   
   Bootstrap is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
  
-     * Free Code Camp - https://freecodecamp.com/  
+ * Free Code Camp - https://freecodecamp.com/  
   
-     * W3school - https://www.w3schools.com/bootstrap/
+ * W3school - https://www.w3schools.com/bootstrap/
  
  
 * ### GIMP
@@ -280,9 +281,9 @@ Your website or dynamic web application is a sum of layers—structure, design a
  
  Links
  
-     * Codecademy - https://www.codecademy.com/learn/javascript 
- 
-     * https://www.w3schools.com/sql/
+ * Codecademy - https://www.codecademy.com/learn/javascript 
+     
+ * https://www.w3schools.com/sql/
 
 # 3. C/C++ programming & Operating Systems
 
