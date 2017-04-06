@@ -181,11 +181,11 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
 * ### Javascript
 
- JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML documen, can provide dynamic interactivity on websites.
- 
-    * Codecademy - https://www.codecademy.com/learn/javascript 
+ JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML document, can provide dynamic interactivity on websites.
+  
+     * Codecademy - https://www.codecademy.com/learn/javascript 
     
-    * W3school - https://www.w3schools.com/js/default.asp
+     * W3school - https://www.w3schools.com/js/default.asp
     
 
 * ### Bootstrap
@@ -235,7 +235,6 @@ Your website or dynamic web application is a sum of layers—structure, design a
    Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
 
  Links
- 
      * Official Rails Documentation -http://guides.rubyonrails.org/
  
      * Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
@@ -261,7 +260,6 @@ Your website or dynamic web application is a sum of layers—structure, design a
   Node.js is an open source, cross-platform runtime environment for developing server-side and  networking  applications. Node.js also provides a rich library of various JavaScript modules  which simplifies the development of web applications using Node.js to a great extent.
 
  Links
-
      * www.freecodecamp.com/    
  
      * https://www.tutorialspoint.com/nodejs/index.htm
@@ -281,7 +279,8 @@ Your website or dynamic web application is a sum of layers—structure, design a
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
  
  Links
-     * https://www.codecademy.com/learn/learn-sql
+ 
+     * Codecademy - https://www.codecademy.com/learn/javascript 
  
      * https://www.w3schools.com/sql/
 
@@ -325,9 +324,10 @@ Learn Python below:
 #### SQL
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
   Links
-* https://www.codecademy.com/learn/learn-sql
+  
+  * https://www.codecademy.com/learn/learn-sql
 
-* https://www.w3schools.com/sql/
+  * https://www.w3schools.com/sql/
 
 
 
