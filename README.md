@@ -104,24 +104,24 @@ Shell scripts allow us to program commands in chains and have the system execute
 ## 1.2 Scripting Languages
 
 ### Popular Technologies
-* ###- Python
+* ### -Python
      Python being one of the most popular scripting languages is used over a variety of  platforms
      for a variety of purposes ranging from Web-development to Machine Learning and much more..
      Resources
-     LEARNTHEHARDWAY- https://learnpythonthehardway.org/
-     CODECADEMY- https://www.codecademy.com/learn/python
+LEARNTHEHARDWAY- https://learnpythonthehardway.org/
+CODECADEMY- https://www.codecademy.com/learn/python
      
  * ### -Ruby
     A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
     Resources
-    LEARNTHEHARDWAY- https://learnrubythehardway.org/
-    CODECADEMY- https://www.codecademy.com/learn/ruby
+LEARNTHEHARDWAY- https://learnrubythehardway.org/
+CODECADEMY- https://www.codecademy.com/learn/ruby
     
- *### -Perl
+ * ### -Perl
    Perl is a programming language designed especially for text processing.It possesses C like syntax.
    Resources
-   LEARNPERL- https://learn.perl.org/
-   PERL E-BOOK- https://www.perl.org/books/beginning-perl/
+LEARNPERL- https://learn.perl.org/
+PERL E-BOOK- https://www.perl.org/books/beginning-perl/
 
 # 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
 
