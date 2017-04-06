@@ -101,9 +101,8 @@ A scripting language is a programming language that employs a high-level constru
 Shell scripts allow us to program commands in chains and have the system execute them as a scripted event, just like          batch files.Scripting allows you to use programming functions – such as ‘for’ loops, if/then/else statements, and so         forth – directly within your operating system’s interface.
 * ### Resources
 
- Learn Shell- http://www.learnshell.org/
- 
- Bash Academy- http://www.bash.academy/
+* Learn Shell- http://www.learnshell.org/
+* Bash Academy- http://www.bash.academy/
 
 ## 1.2 Scripting Languages
 
@@ -114,27 +113,26 @@ Shell scripts allow us to program commands in chains and have the system execute
     
      Resources
      
-     LEARNTHEHARDWAY- https://learnpythonthehardway.org/
-  
-     CODECADEMY- https://www.codecademy.com/learn/python
+  *Learn the hard way - https://learnpythonthehardway.org/
+  *Codecademy- https://www.codecademy.com/learn/python
      
  * ### -Ruby
     A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
    
    Resources
     
-    LEARNTHEHARDWAY- https://learnrubythehardway.org/
+    *Learn the hard way- https://learnrubythehardway.org/
  
-    CODECADEMY- https://www.codecademy.com/learn/ruby
+    *Codecademy- https://www.codecademy.com/learn/ruby
     
  * ### -Perl
    Perl is a programming language designed especially for text processing.It possesses C like syntax.
    
    Resources
    
-   LEARNPERL- https://learn.perl.org/
+   *Learn Perl- https://learn.perl.org/
 
-   PERL E-BOOK- https://www.perl.org/books/beginning-perl/
+   *Perl E-Book- https://www.perl.org/books/beginning-perl/
 
 # 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
 
@@ -152,51 +150,49 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
 * ### HTML
 
-  HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text                        Markup     Language. HTML describes the structure of Web pages using markup.
+  HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text  Markup  Language. HTML describes the structure of Web pages using markup.
   Resources
   
- FREECODECAMP - https://freecodecamp.com/ 
- 
- CODEACADEMY - https://www.codecademy.com/learn/web
- 
- W3SCHOOL - https://www.w3schools.com/html/
+ *Free Code Camp - https://freecodecamp.com/ 
+ *Codecademy - https://www.codecademy.com/learn/web
+ *W3school - https://www.w3schools.com/html/
  
  
 * ### CSS
 
   CSS stands for Cascadind Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
   
- FREECODECAMP - https://freecodecamp.com/  
+ *Free Code Camp - https://freecodecamp.com/  
  
- CODEACADEMY - https://www.codecademy.com/learn/web
+ *Codecademy - https://www.codecademy.com/learn/web
  
- W3SCHOOL - https://www.w3schools.com/html/
+ *W3school - https://www.w3schools.com/html/
  
 
 * ### Javascript
 
  JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML documen, can provide dynamic interactivity on websites.
  
-    CODEACADEMY - https://www.codecademy.com/learn/javascript 
+    *Codecademy - https://www.codecademy.com/learn/javascript 
     
-    W3SCHOOL - https://www.w3schools.com/js/default.asp
+    *W3school - https://www.w3schools.com/js/default.asp
     
 
 * ### Bootstraps
   
   Bootstraps is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
  
- FREECODECAMP - https://freecodecamp.com/  
+ *Free Code Camp - https://freecodecamp.com/  
   
- W3SCHOOL - https://www.w3schools.com/bootstrap/
+ *W3school - https://www.w3schools.com/bootstrap/
  
  
 * ### GIMP
    GIMP (GNU Image Manipulation Program ) is a freely distributed program for such tasks as photo retouching, image   composition and image authoring.
  
- OFFICIAL TUTORIAL- https://www.gimp.org/tutorials/
+ *Official Tutorial- https://www.gimp.org/tutorials/
  
- Youtube
+ *Youtube
 
 ## 2.2 BACKEND
 
@@ -216,15 +212,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
   If you're already knowledgeble in Python and interested in Web Development, I suggest you start with learning Django or Flask, Django is a free and open source web application framework, written in Python Instagram, National Geographic, Mozilla, Pintrest are some websites which run on django. Flask is a lighter version of Django
   
  
- DjangoGirls: https://tutorial.djangogirls.org/en/
- 
- Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
- 
- Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
-  
- Flask-Documentation: https://www.tutorialspoint.com/flask/
-
- Flask-Doc: https://hackr.io/tutorials/learn-flask
+ *DjangoGirls: https://tutorial.djangogirls.org/en/
+ *Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
+ *Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+ *Flask-Documentation: https://www.tutorialspoint.com/flask/
+ *Flask-Doc: https://hackr.io/tutorials/learn-flask
   
 
 * ### Ruby on Rails
@@ -232,13 +224,9 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
  Links
  
- http://guides.rubyonrails.org/
- 
- https://www.railstutorial.org/book/frontmatter
- 
- http://railsforzombies.org
- 
- Youtube Tutorials
+  *Official Rails Documentation -http://guides.rubyonrails.org/
+  *Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
+  *Code School -http://railsforzombies.org
 
 
 * ### PHP
@@ -247,11 +235,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
   Links
 
- http://www.learn-php.org/
+ *Learn PHP -http://www.learn-php.org/
  
- https://www.tutorialspoint.com/php/
+ *Tutorialspoint- https://www.tutorialspoint.com/php/
  
- https://www.w3schools.com/php/
+ *W3school -https://www.w3schools.com/php/
 
 
 
@@ -260,11 +248,9 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
  Links
 
- freecodecamp.com/    
-
- https://www.tutorialspoint.com/nodejs/index.htm
-
- Youtube Tutorials
+ *www.freecodecamp.com/    
+ *https://www.tutorialspoint.com/nodejs/index.htm
+ *Youtube Tutorials
 
 
 * ### Rocket.rs
@@ -272,24 +258,22 @@ Your website or dynamic web application is a sum of layers—structure, design a
      infancy,Rocket is less popular and still under development.
  
  Links
- 
- https://rocket.rs/guide/
+* https://rocket.rs/guide/
 
 
 * ### SQL
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
  
  Links
+ * https://www.codecademy.com/learn/learn-sql
  
- https://www.codecademy.com/learn/learn-sql
- 
- https://www.w3schools.com/sql/
+ * https://www.w3schools.com/sql/
 
 # 3. Operating Systems (FEDORA/DEBIAN/ReactOS) : C/C++ DOS
 
   C/C++ is the most powerful programming language ever created. It is used to run everything from your operating system to power your android Device to making your desktop applications. C/C++ is everywhere and with an endless supply of projects with a deficiency in C/C++ developers it is one of the most sought out position with the most highest pay. To learn C/C++ to be a good developer takes time and and patience. One of the project for our college is our own operating system 
   
-  https://github.com/FossMec/Welcome/Current-Projects
+*  https://github.com/FossMec/Welcome/Current-Projects
   
   Resource 
 
