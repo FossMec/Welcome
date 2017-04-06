@@ -38,6 +38,10 @@ and perseverence. Diving in might be hard, but the more you explore, the better 
 
 ### Task 1: So your current task is to say Hi in the general stream in slack and check in everyday.
 
+Go through this wonderful tutorial on being a developer or bookmark this to go through this link later! This is the ultimate bible for developers!!!
+
+https://www.pluralsight.com/courses/get-involved
+
 #### Okay, so that's done, now what?
 
 # LINUX
