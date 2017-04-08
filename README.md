@@ -183,7 +183,7 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
  JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML document, can provide dynamic 
  interactivity on websites.  
- 
+
     * Codecademy - https://www.codecademy.com/learn/javascript 
 
     * W3school - https://www.w3schools.com/js/default.asp
