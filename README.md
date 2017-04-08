@@ -114,7 +114,7 @@ Shell scripts allow us to program commands in chains and have the system execute
 
 ### Popular Technologies
 
-* ### -Python
+* ### Python
      Python being one of the most popular scripting languages is used over a variety of  platforms
      for a variety of purposes ranging from Web-development to Machine Learning and much more..
     
@@ -124,7 +124,7 @@ Shell scripts allow us to program commands in chains and have the system execute
   
   * Codecademy- https://www.codecademy.com/learn/python
      
- * ### -Ruby
+ * ### Ruby
     A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
    
    Resources
@@ -133,7 +133,7 @@ Shell scripts allow us to program commands in chains and have the system execute
  
     * Codecademy- https://www.codecademy.com/learn/ruby
     
- * ### -Perl
+ * ### Perl
    Perl is a programming language designed especially for text processing.It possesses C like syntax.
    
    Resources
@@ -160,40 +160,41 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
   HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text  Markup  Language. HTML describes the structure of Web pages using markup.
   Resources
-  
+
      * Free Code Camp - https://freecodecamp.com/ 
- 
+
      * Codecademy - https://www.codecademy.com/learn/web
- 
+
      * W3school - https://www.w3schools.com/html/
  
  
 * ### CSS
 
   CSS stands for Cascading Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
-  
+
      * Free Code Camp - https://freecodecamp.com/  
- 
+
      * Codecademy - https://www.codecademy.com/learn/web
- 
+
      * W3school - https://www.w3schools.com/html/
  
 
 * ### Javascript
 
- JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML document, can provide dynamic interactivity on websites.
-  
-     * Codecademy - https://www.codecademy.com/learn/javascript 
-    
-     * W3school - https://www.w3schools.com/js/default.asp
+ JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML document, can provide dynamic 
+ interactivity on websites.  
+
+    * Codecademy - https://www.codecademy.com/learn/javascript 
+
+    * W3school - https://www.w3schools.com/js/default.asp
     
 
 * ### Bootstrap
   
   Bootstrap is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
- 
+
      * Free Code Camp - https://freecodecamp.com/  
-  
+
      * W3school - https://www.w3schools.com/bootstrap/
  
  
@@ -234,11 +235,12 @@ Your website or dynamic web application is a sum of layers—structure, design a
 * ### Ruby on Rails
    Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
 
- Links
+   Links
+    
      * Official Rails Documentation -http://guides.rubyonrails.org/
  
      * Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
- 
+
      * Code School -http://railsforzombies.org
 
 
@@ -260,11 +262,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
   Node.js is an open source, cross-platform runtime environment for developing server-side and  networking  applications. Node.js also provides a rich library of various JavaScript modules  which simplifies the development of web applications using Node.js to a great extent.
 
  Links
-     * www.freecodecamp.com/    
- 
-     * https://www.tutorialspoint.com/nodejs/index.htm
- 
-     * Youtube Tutorials
+        * www.freecodecamp.com/    
+
+        * https://www.tutorialspoint.com/nodejs/index.htm
+
+        * Youtube Tutorials
 
 
 * ### Rocket.rs
@@ -280,9 +282,9 @@ Your website or dynamic web application is a sum of layers—structure, design a
  
  Links
  
-     * Codecademy - https://www.codecademy.com/learn/javascript 
- 
-     * https://www.w3schools.com/sql/
+ * Codecademy - https://www.codecademy.com/learn/javascript 
+     
+ * https://www.w3schools.com/sql/
 
 # 3. C/C++ programming & Operating Systems
 
