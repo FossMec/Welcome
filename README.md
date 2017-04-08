@@ -114,7 +114,7 @@ Shell scripts allow us to program commands in chains and have the system execute
 
 ### Popular Technologies
 
-* ### -Python
+* ### Python
      Python being one of the most popular scripting languages is used over a variety of  platforms
      for a variety of purposes ranging from Web-development to Machine Learning and much more..
     
@@ -124,7 +124,7 @@ Shell scripts allow us to program commands in chains and have the system execute
   
   * Codecademy- https://www.codecademy.com/learn/python
      
- * ### -Ruby
+ * ### Ruby
     A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
    
    Resources
@@ -133,7 +133,7 @@ Shell scripts allow us to program commands in chains and have the system execute
  
     * Codecademy- https://www.codecademy.com/learn/ruby
     
- * ### -Perl
+ * ### Perl
    Perl is a programming language designed especially for text processing.It possesses C like syntax.
    
    Resources
