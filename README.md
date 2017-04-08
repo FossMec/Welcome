@@ -114,7 +114,7 @@ Shell scripts allow us to program commands in chains and have the system execute
 
 ### Popular Technologies
 
-* ### -Python
+* ### Python
      Python being one of the most popular scripting languages is used over a variety of  platforms
      for a variety of purposes ranging from Web-development to Machine Learning and much more..
     
@@ -124,7 +124,7 @@ Shell scripts allow us to program commands in chains and have the system execute
   
   * Codecademy- https://www.codecademy.com/learn/python
      
- * ### -Ruby
+ * ### Ruby
     A dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant                   syntax that is natural to read and easy to write.It is the most used language as per Github.
    
    Resources
@@ -133,7 +133,7 @@ Shell scripts allow us to program commands in chains and have the system execute
  
     * Codecademy- https://www.codecademy.com/learn/ruby
     
- * ### -Perl
+ * ### Perl
    Perl is a programming language designed especially for text processing.It possesses C like syntax.
    
    Resources
@@ -160,47 +160,48 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
 
   HTML is the standard markup language for creating Web pages. HTML stands for Hyper Text  Markup  Language. HTML describes the structure of Web pages using markup.
   Resources
-  
- *Free Code Camp - https://freecodecamp.com/ 
- 
- *Codecademy - https://www.codecademy.com/learn/web
- 
- *W3school - https://www.w3schools.com/html/
+
+     * Free Code Camp - https://freecodecamp.com/ 
+
+     * Codecademy - https://www.codecademy.com/learn/web
+
+     * W3school - https://www.w3schools.com/html/
  
  
 * ### CSS
 
   CSS stands for Cascading Style Sheet . It is a style sheet language used for describing the presentation of a document written in a markup language. Basically CSS gives life and colour to the website.
-  
- *Free Code Camp - https://freecodecamp.com/  
- 
- *Codecademy - https://www.codecademy.com/learn/web
- 
- *W3school - https://www.w3schools.com/html/
+
+     * Free Code Camp - https://freecodecamp.com/  
+
+     * Codecademy - https://www.codecademy.com/learn/web
+
+     * W3school - https://www.w3schools.com/html/
  
 
 * ### Javascript
 
- JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML documen, can provide dynamic interactivity on websites.
- 
-    *Codecademy - https://www.codecademy.com/learn/javascript 
-    
-    *W3school - https://www.w3schools.com/js/default.asp
+ JavaScript is a full-fledged dynamic programming language that, when applied to an  HTML document, can provide dynamic 
+ interactivity on websites.  
+
+    * Codecademy - https://www.codecademy.com/learn/javascript 
+
+    * W3school - https://www.w3schools.com/js/default.asp
     
 
 * ### Bootstrap
   
   Bootstrap is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
- 
- *Free Code Camp - https://freecodecamp.com/  
-  
- *W3school - https://www.w3schools.com/bootstrap/
+
+     * Free Code Camp - https://freecodecamp.com/  
+
+     * W3school - https://www.w3schools.com/bootstrap/
  
  
 * ### GIMP
    GIMP (GNU Image Manipulation Program ) is a freely distributed program for such tasks as photo retouching, image   composition and image authoring.
  
- *Official Tutorial- https://www.gimp.org/tutorials/
+     * Official Tutorial- https://www.gimp.org/tutorials/
  
  *Youtube
 
@@ -220,27 +221,27 @@ Your website or dynamic web application is a sum of layers—structure, design a
   If you're already knowledgeble in Python and interested in Web Development, I suggest you start with learning Django or Flask, Django is a free and open source web application framework, written in Python Instagram, National Geographic, Mozilla, Pintrest are some websites which run on django. Flask is a lighter version of Django
   
  
- *DjangoGirls: https://tutorial.djangogirls.org/en/
+     * DjangoGirls: https://tutorial.djangogirls.org/en/
  
- *Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
+     * Django-Video- Tutorials: https://www.youtube.com/watch?v=qgGIqRFvFFk
  
- *Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
+     * Official-Documentation-Django: https://docs.djangoproject.com/en/1.10/intro/tutorial01/
  
- *Flask-Documentation: https://www.tutorialspoint.com/flask/
+     * Flask-Documentation: https://www.tutorialspoint.com/flask/
  
- *Flask-Doc: https://hackr.io/tutorials/learn-flask
+     * Flask-Doc: https://hackr.io/tutorials/learn-flask
   
 
 * ### Ruby on Rails
    Rails like Django is also a free and open source web application but written in Ruby.                                        Codecademy,twitter(old version),plated,github are some sites build over Rails.
 
- Links
+   Links
+    
+     * Official Rails Documentation -http://guides.rubyonrails.org/
  
-  *Official Rails Documentation -http://guides.rubyonrails.org/
- 
- *Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
- 
- *Code School -http://railsforzombies.org
+     * Ruby on Rails Book by Micheal Hartl -https://www.railstutorial.org/book/frontmatter
+
+     * Code School -http://railsforzombies.org
 
 
 * ### PHP
@@ -249,11 +250,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
 
   Links
 
- *Learn PHP -http://www.learn-php.org/
+     * Learn PHP -http://www.learn-php.org/
  
- *Tutorialspoint- https://www.tutorialspoint.com/php/
+     * Tutorialspoint- https://www.tutorialspoint.com/php/
  
- *W3school -https://www.w3schools.com/php/
+     * W3school -https://www.w3schools.com/php/
 
 
 
@@ -261,12 +262,11 @@ Your website or dynamic web application is a sum of layers—structure, design a
   Node.js is an open source, cross-platform runtime environment for developing server-side and  networking  applications. Node.js also provides a rich library of various JavaScript modules  which simplifies the development of web applications using Node.js to a great extent.
 
  Links
+        * www.freecodecamp.com/    
 
- *www.freecodecamp.com/    
- 
- *https://www.tutorialspoint.com/nodejs/index.htm
- 
- *Youtube Tutorials
+        * https://www.tutorialspoint.com/nodejs/index.htm
+
+        * Youtube Tutorials
 
 
 * ### Rocket.rs
@@ -281,28 +281,30 @@ Your website or dynamic web application is a sum of layers—structure, design a
   Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
  
  Links
- * https://www.codecademy.com/learn/learn-sql
  
+ * Codecademy - https://www.codecademy.com/learn/javascript 
+     
  * https://www.w3schools.com/sql/
 
 # 3. C/C++ programming & Operating Systems
 
 Although any programmer may find himself content to writing code at breakneck speeds using Python, Ruby and the more "modern" languages, his/her repertoire is never complete without the understanding and mastery of the C/C++ family of languages. When dealing with C/C++, you are very nearly at the bare-metal level; the operating system libraries and all the intricacies of the hardware lay open to you. Regardless of your area of interest, some familiarity with these languages will go a long way in improving you knowledge of computers as a whole.
+
+Now you may have learnt and even be good at C/C++ then why wait, jump into OS development. You can start by familiarising GNU/Linux system (We may use Ubuntu or Mint and develop for Debian).Learn some basic commands like echo,ls,mv... Now the interesting part, try to code them in C, these simple programs they are called the core and officially named core-utils.So do it and you are ready for an OS to come.
   
-*  https://github.com/FossMec/Welcome/Current-Projects
   
   Resources
 
 * www.tutorialspoint.com/cprogramming
 * en.m.wikibooks.org/wiki/C_Programming
-
 * www.cprogramming.com
 * www.cppreference.com (For reference of commands, header files, etc)
 * http://codeforces.com/problemset?order=BY_SOLVED_DESC (For coding challenges after learning C/C++)
+* https://github.com/coreutils/coreutils
 
 # 4. Machine Learning : Python, R, SQL
 
-Modern computers are becoming more and more intelligent as time passes. Most of this is/can be attributed to machine learning. The definition of machine learning is that it is "a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed."
+Modern computers are becoming more and more intelligent as time passes. Most of this is/can be attributed to machine learning. The definition of machine learning is that it is "a method to achieve artificial intelligence (AI) that gives computers the ability to learn without being explicitly programmed."
 
 Machine learning is an essential skill in most of IoT applications that are developed today. What more to say, it is built into most of the applications that we all use everyday! 
 Learning how to teach your machine to learn will be an important asset in your programming career.
@@ -323,14 +325,6 @@ Learn Python below:
 * https://www.learnpython.org/
 
 * www.pyschools.com/
-
-#### SQL
-  Structured Query Language (SQL) is a standard computer language for relational database management and data manipulation. SQL is used to query, insert, update and modify data. SQL is needed for all Backend related activities
-  Links
-* https://www.codecademy.com/learn/learn-sql
-
-* https://www.w3schools.com/sql/
-
 
 
 # 5. Android Application Development Using Java
@@ -363,6 +357,10 @@ Eclipse and android studio are the IDEs recommended for a beginner.
 
 For more details on android studio: https://developer.android.com/studio/index.html
 everything from setting up to using android studio is documented here.
+
+So learn java and more java then android then app creation, it's a long way.Well actually not but if you think so , but have an excellent idea for an app then why wait for java you can use MIT app inventor ,CURIOUS..
+Start here : http://appinventor.mit.edu/explore/ai2/beginner-videos.html
+
 
 # 6. Google Summer of Code || Google Code-In
 
