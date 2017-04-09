@@ -11,6 +11,8 @@
 ### Semester 3: 
 * Getting acquinted with team and familiarising concepts
 * Start project : FOSSMec Website
-
+* Tranforming team members into full stack web developers
+* Applications and deployment of various APIs
+* Undertaking and deployment of different Projects 
 
 ...will be added soon
