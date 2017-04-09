@@ -1,18 +1,25 @@
 # Web Development
-
 ## Immediate Milestones:
 * Setting up a Web-Dev Channel on Slack and building a team
 * Allocating Mentors for the team
 * Familiarisation with Git and Git based Hosting services like Github
-* Introduction to various technologies like javascript,HTML,CSS,Bootstaps
 * Basics of Web based framework
 
-## Milestones before commencement of Sem 3:
+
+### Semester 2: 
+* HTML coding
+* Introduction to CSS, JavaScript, Bootstraps
+* Introduction to Node.js, Ruby/RubyOnRails, Django
+* Sample webpage creation
+* Team division (Front-end/Back-end)
+
+
+### Semester 3: 
+* Getting acquinted with team and familiarising concepts
+* Start project : FOSSMec Website
+* Tranforming team members into full stack web developers
 * Applications and deployment of various APIs
 * Undertaking and deployment of different Projects 
 
-## Sem 3 Milestones:
-* Tranforming team members into full stack web developers
-
-
+...will be added soon
 
