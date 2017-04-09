@@ -1,8 +1,18 @@
+# Web Development
+
+## Immediate Milestones:
+* Setting up a Web-Dev Channel on Slack and building a team
+* Allocating Mentors for the team
+* Familiarisation with Git and Git based Hosting services like Github
+* Introduction to various technologies like javascript,HTML,CSS,Bootstaps
+* Basics of Web based framework
+
+## Milestones before commencement of Sem 3:
+* Applications and deployment of various APIs
+* Undertaking and deployment of different Projects 
+
+## Sem 3 Milestones:
+* Tranforming team members into full stack web developers
 
 
 
- ## To familiarise the team with git and git based Hosting services.
-  A web developer needs to manage multiple files of various types. It becomes a challenging task to manage front and back end using a single system. That is where Git comes in.Git hosting services like github provide online repositories for your projects. This makes code-sharing and management easy. 
-
-## To undertake and work on various projects
-The more you do,the more you learn.That is a golden rule,when it comes to programming.Working on different projects,gets us exposed to various APIs and other required technologies.
