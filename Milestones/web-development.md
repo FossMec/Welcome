@@ -11,20 +11,20 @@ Hi, these are the milestones for web development. The web development team is le
 * Teaching web basics
 * Basics of Web based framework and introduction to Frontend and backend technologies.
 
-### Semester 2 and vacation: 
+## Semester 2 and vacation: 
 * Trying to work on sample projects lead by team heads.
 * Team division (Front-end/Back-end)
 * Start project : FOSSMec Website
 * Finding out real Open Source projects the team members are interested in contributing in.
 
-### Semester 3: 
+## Semester 3: 
 * Start contributing to real Open Source projects.
 * Making the current first years as team leaders of next batch of students to introduce them to the world of open source.
 * Tranforming team members into full stack web developers who are able to cope up with all kind of dynamic requests and build whatever you can imagine with ease.
  
 If you have any suggestions or ideas, do message us in web-development team in slack. :)
 
-Web Development team mentors, 
+### Web Development team mentors, 
 
 * Adarsh S (Frontend/Python/Django)
 * Adarsh P Menon
