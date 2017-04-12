@@ -20,7 +20,7 @@ Hi, these are the milestones for web development. The web development team is le
 ### Semester 3: 
 * Start contributing to real Open Source projects.
 * Making the current first years as team leaders of next batch of students to introduce them to the world of open source.
-* Tranforming team members into full stack web developers
+* Tranforming team members into full stack web developers who are able to cope up with all kind of dynamic requests and build whatever you can imagine with ease.
  
 If you have any suggestions or ideas, do message us in web-development team in slack. :)
 
