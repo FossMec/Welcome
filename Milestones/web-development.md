@@ -26,8 +26,8 @@ If you have any suggestions or ideas, do message us in web-development team in s
 
 Web Development team mentors, 
 
-Adarsh S (Frontend/Python/Django)
-Adarsh P Menon
-Ashwin Nair
-Jithin James
-Hariraj K
+* Adarsh S (Frontend/Python/Django)
+* Adarsh P Menon
+* Ashwin Nair
+* Jithin James
+* Hariraj K
