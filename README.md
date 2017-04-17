@@ -139,8 +139,9 @@ Shell scripts allow us to program commands in chains and have the system execute
 
 ### Resources
 
-* Learn Shell- http://www.learnshell.org/
-* Bash Academy- http://www.bash.academy/
+   * Learn Shell- http://www.learnshell.org/
+   
+   * Bash Academy- http://www.bash.academy/
 
 
 # 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
