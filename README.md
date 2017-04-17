@@ -1,11 +1,11 @@
 # Welcome
 
-FOSS Cell at MEC aims at bringing out new coding talents and open source enthusiasts to come forward and contribute to the Open Source and to bring back the FOSS culture at MEC. The club is inspired by FOSSMeet held at MEC 7 years ago in 2010. Also it aims in promoting FOSS culture at the college level so as to make the students aware of the changing trends in science and technology and to equip students to cope up with highly demanding jobs. One of the main motives of FOSS MEC is to introduce and train people in the field of open source and make students ready to face the growing challenges of day-to-day life.
+FOSS Cell at MEC aims at bringing out new coding talents and open source enthusiasts to come forward and contribute to the    world of Open Source and to bring back the FOSS culture at MEC. The club is inspired by FOSSMeet held at MEC 7 years ago in 2010 at MEC. Also it aims in promoting FOSS culture at the college level so as to make the students aware of the changing trends in science and technology and to equip students to cope up with highly demanding jobs. One of the main motives of FOSS MEC is to introduce and train people in the field of open source and make students ready to face the growing challenges in the software world.
 
 ### Objectives
 
-* To nurture your coding talents 
 * To give exposure in the open source community
+* To nurture your coding talents 
 * To incorporate the concepts of open source into other fields such as IoT
 * To establish professional skills in the field of Computer Science for better job prospects.
 
@@ -13,11 +13,11 @@ FOSS Cell at MEC aims at bringing out new coding talents and open source enthusi
 
 Open-source software (OSS) is computer software with its source code made available with a license in which the copyright holder provides the rights to study, change, and distribute the software to anyone and for any purpose. Open-source software may be developed in a collaborative public manner. According to scientists who studied it, open-source software is a prominent example of open collaboration. You can take software and change it according to your own wish.
 
-## Colleges may teach you programming, but not developing. Companies, however, are looking for developers. So how are people selected by big corporations? 
+Colleges may teach you programming, but not developing software. Companies, however, are looking for developers. So how are people selected by big corporations? 
 
-## "Okay! Sounds Cool but I'm a complete begi..
-
-#### ...beginner, how would I be able to cope up with being a software developer? Isn't it too difficult? Can I handle something like that?" 
+### "Okay! Sounds Cool but I'm a complete begi..
+ 
+ ...beginner, how would I be able to cope up with being a software developer? Isn't it too difficult? Can I handle something like that?" 
 
 This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. If you're a very good content writer then you could write manuals on how to use projects and other documentation related tasks. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
 
@@ -32,8 +32,8 @@ On the right hand side of slack, there are streams, it's exactly like different 
 The general chat enables users to get updated with college news and participate in group discussions.
 Moreover, the Slack mobile apps equips users with portability and news updates on the go. 
 
-* ANDROID: https://play.google.com/store/apps/details?id=com.Slack&hl=en
-* MICROSOFT: https://www.microsoft.com/en-us/store/p/slack/9wzdncrdk3wp
+* Android: https://play.google.com/store/apps/details?id=com.Slack&hl=en
+* Windows: https://www.microsoft.com/en-us/store/p/slack/9wzdncrdk3wp
 
 Always remember, you do not become a software developer overnight, it takes weeks and months of patience 
 and perseverence. Diving in might be hard, but the more you explore, the better it gets. So don't give up!
@@ -48,7 +48,7 @@ https://www.pluralsight.com/courses/get-involved
 
 # LINUX
 
-### This part is for people who are unfamiliar with LINUX commands, if you have basic knowledge of Linux and know how to get around the system, feel free to skip this part. 
+This part is for people who are unfamiliar with LINUX commands, if you have basic knowledge of Linux and know how to get around the system, feel free to skip this part. 
 
 Basically there is no Open Source without linux, for becoming a developer the prime skills required for you is using the command line, that is the black box you type commands in. You can develop using windows too but it is most useful to have a Linux based system. Learn basic Linux Commands from here before proceeding.
 
@@ -63,21 +63,21 @@ Command Line - https://www.learnenough.com/command-line-tutorial
 
 # GIT and GITHUB
 
-GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 56 million projects. It is effectively a social network for the programmer!!!!!!
+GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 56 million projects. It is in short a social network for programmers!
 
 Now lets get into something technical, the website you're reading this on is GitHub. You ask what is github? Official statement is that "GitHub is a web-based Git or version control repository and Internet hosting service. It offers all of the distributed version control and source code management (SCM) functionality of Git as well as adding its own features. It provides access control and several collaboration features such as bug tracking, feature requests, task management, and wikis for every project"
 
-So now lets put into simple words, Github is a platform similar to Google Drive, but instead of photos and stuff you upload your Software projects here, if you're developing a Operating System or Website you upload the Source Code here, for safekeeping, file sharing and collaboration. You can build the same software from people all over the world with GitHub.
+So now lets put into simple words, Github is a platform similar to Google Drive, but instead of photos and files you upload your Software projects here, if you're developing a Operating System or Website you upload the Source Code here, for safekeeping, file sharing and collaboration. You can build the same software from people all over the world with GitHub.
 
 So your first step into becoming a software developer is to learn git and learning to use github. 
 
-Wisdom can be shared, we can only guide you on where to learn, it is your duty to learn. We will provide you with a list of resources to learn to get into git. And I again say NEVER GIVE UP!!!!!!
+Wisdom can be shared, we can only guide you on where to learn, it is your duty to learn. We will provide you with a list of resources to learn to get into git. And I again say NEVER GIVE UP! It is your duty to learn it on your own, we are always here to help you in every step of the way.
 
-Here is a list of to learn GIT!
+Here is a list of to learn Git!
 
-Learn GIT Codeacademy - https://www.codecademy.com/learn/learn-git
+Learn Git Codeacademy - https://www.codecademy.com/learn/learn-git
 
-Learn GIT Video tutorials - https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx
+Learn Git Video tutorials - https://www.youtube.com/watch?v=cEGIFZDyszA&list=PL6gx4Cwl9DGAKWClAD_iKpNC0bGHxGhcx
 
 Learn Git challenges - https://try.github.io/levels/1/challenges/1
 
@@ -91,26 +91,17 @@ Actual projects can be classified into many, there are loads of Open Source Proj
 Now you can decide what kind of project interests you by going through variety of projects given below.
 Before contributing to a project you have to learn to develop it by learning the languages used in developing the app.
 
-# Choose Wisely!!!!!!!!!!!!
+Choose Wisely!
 
 ## Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
 
-### You are always encouraged to search up on items you find confusing and do research and find out whether it is suitable for you to learn. 
+You are always encouraged to search up on items you find confusing and do research and find out whether it is suitable for you to learn. 
 
 # 1.SCRIPTING
 
-A scripting language is a programming language that employs a high-level construct to interpret and execute one command at a time. In general, scripting languages are easier to learn and faster to code in than more structured and compiled languages such as C and C++.
+A scripting language is a programming language that employs a high-level construct to interpret and execute one command at a time. In general, scripting languages are easier to learn and faster to code in than more structured and compiled languages such as C and C++. It is always adviced to learn a scripting language because it has a large scope of use.
 
-## 1.1 Shell Scripting
-
-Shell scripts allow us to program commands in chains and have the system execute them as a scripted event, just like          batch files.Scripting allows you to use programming functions – such as ‘for’ loops, if/then/else statements, and so         forth – directly within your operating system’s interface.
-
-### Resources
-
-* Learn Shell- http://www.learnshell.org/
-* Bash Academy- http://www.bash.academy/
-
-## 1.2 Scripting Languages
+## 1.1 Scripting Languages
 
 ### Popular Technologies
 
@@ -141,6 +132,16 @@ Shell scripts allow us to program commands in chains and have the system execute
    * Learn Perl- https://learn.perl.org/
 
    * Perl E-Book- https://www.perl.org/books/beginning-perl/
+
+## 1.2 Shell Scripting
+
+Shell scripts allow us to program commands in chains and have the system execute them as a scripted event, just like          batch files.Scripting allows you to use programming functions – such as ‘for’ loops, if/then/else statements, and so         forth – directly within your operating system’s interface.
+
+### Resources
+
+* Learn Shell- http://www.learnshell.org/
+* Bash Academy- http://www.bash.academy/
+
 
 # 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
 
