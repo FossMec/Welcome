@@ -1,8 +1,32 @@
-# When I hear FOSS I see a penguin
-* 'LINUX' is the word which first hits your mind on hearing FOSS.Well it should be.Linux was an effort of Linus Torvalds and many others in developing a unix-like OS.In fact, we use GNU/Linux operating systems with linux at the kernel.The GNU project and Linux started around the same time with similar motivation 'a free and opensource counterpart for unix'.They were partially completed and merged to create a standalone OS. Most of the kernel side implementation belonged to linux and the interface and programs belonged to GNU.So next time you say linux think again and get used to say GNU/Linux.
-* The GNU project did great contributions which we would probably use most in our developments.For example GCC(GNU Compiler Collection) which we use to compile our program GTK(GNU Image Manipulation Program or GIMP Tool Kit) which we use draw windows,borders,buttons etc... on our desktop and much more. Hence, remember its part in the entire GNU/Linux.
-# A word about Git
-*For opensource programs like Linux where a lot of patches and issues along with a stable and future versions to be stored, a version control system plays a vital role.Early systems may have used tedious copy paste efforts.Keeping that in mind Linus Torvalds invented the "GIT" a VCS solution.It uses branching and merge to keep the stable version clean and working on a new patch simultaneously as simple as pi.Later a web interface of git have been launched, the 'github' which personally Linus hates as per an email interview conducted by wired.com.But still github makes it easier for making pull request and opening issues.
-* We'll see the power of git and github also see their pros and cons while working with them to create our dream OS...
-## So co-operate on the task in git and score on its knowledge
+# What is ML and AI ?
+  Nature has always inspired man.Birds which transformed to aircraft and fish 
+  which transformed to boats and submarines and even more. After all, what do we have after a man.
+  Humans are known for their intelligent ways of interaction with their environment.Understanding and cloning
+  such capabilities has been the dream for the founding fathers of Artificial Intelligence.When learning got
+  attributed to the human inteligence the field of research turned its  focus to the natural learning 
+  workflows. Mathematical modelling of the situation and rigorous mathematical formulations by the masterminds 
+  through ages has evolved to the field of Machine Learning.Informally it has been defined as 
+  "the ability of a machine to achieve a task without being explicitly programmed for".
+  ML can be considered as the road to the dream of AI. Certain methods in ML together called Deep Learning
+  is the next best thing for the field.Deep learning methods have been employed in enumerous tasks which
+  could have been impossible otherwise. Some samples below
 
+
+
+
+  
+  Our field had some acceleration onset of 2015 and is still on fire. Rigorous startegies to tackle the field 
+  has to be employed to follow among this fields.We'll seek help from men experienced in the field and share 
+  our knowledge among ourselves.The following milestones should be set to achieve the same. Any suggestion for
+  change is welcome
+  
+ 
+# What will we do now:
+* Create a slack channel for ML as an open forum for mec ML enthusiast.
+* We will then try and get our hands on git and github preferably get comfortable with it
+  (A github account speaks louder than a resume ).
+* Next task is to get a basic understanding on how various API's and program 
+  libraries and header files are used in general.
+* Get to know API's and libraries specific for Machine Learning.
+* Get understanding of how some basic algorithms work
+* Individually work on some miroprojects.
