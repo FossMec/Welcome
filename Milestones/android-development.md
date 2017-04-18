@@ -8,7 +8,6 @@
 
 ### Sem3 Milestones : 
 * Calculator App
-* Accesing contacts and google maps using Intents
-* Camera App
-* Google text to speech and saving text files
-* Handlers and Runnables - Countdown App
+* Using Intents
+* Saving text files and using SQLite
+* Handlers and Runnables
