@@ -15,13 +15,13 @@ Open-source software (OSS) is computer software with its source code made availa
 
 Colleges may teach you programming, but not developing software. Companies, however, are looking for developers. So how are people selected by big corporations? 
 
-### "Okay! Sounds Cool but I'm a complete begi..
+### "Okay! Piqued my interest, but I'm a complete begi..
  
  ...beginner, how would I be able to cope up with being a software developer? Isn't it too difficult? Can I handle something like that?" 
 
 This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. If you're a very good content writer then you could write manuals on how to use projects and other documentation related tasks. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
 
-## Sounds Cool! Okay, I'm ready to get into FOSS! What do I do?
+## Sounds Cool! Okay, I'm ready to get involved in FOSS! What do I do?
 
 Okay, so I guess you already joined https://fosscellmec.slack.com ? If not go to the Whatsapp group and tell them to add you in! Let's explain Slack. Slack is an instant messaging platform for collaborating with other developers. You could give suggestions, ask programming questions and work on projects by asking help from people and know about ongoings. 
 
@@ -44,9 +44,9 @@ Go through this wonderful tutorial on being a developer or bookmark this to go t
 
 https://www.pluralsight.com/courses/get-involved
 
-#### Okay, so that's done, now what?
+#### _Okay, so that's done, now what?_
 
-# LINUX
+# __LINUX__
 
 This part is for people who are unfamiliar with LINUX commands, if you have basic knowledge of Linux and know how to get around the system, feel free to skip this part. 
 
@@ -61,7 +61,7 @@ Command Line Codeacademy - https://www.codecademy.com/en/courses/learn-the-comma
 Command Line - https://www.learnenough.com/command-line-tutorial
 
 
-# GIT and GITHUB
+# __GIT and GITHUB__
 
 GitHub is where people build software. More than 21 million people use GitHub to discover, fork, and contribute to over 56 million projects. It is in short a social network for programmers!
 
@@ -71,7 +71,7 @@ So now lets put into simple words, Github is a platform similar to Google Drive,
 
 So your first step into becoming a software developer is to learn git and learning to use github. 
 
-Wisdom can be shared, we can only guide you on where to learn, it is your duty to learn. We will provide you with a list of resources to learn to get into git. And I again say NEVER GIVE UP! It is your duty to learn it on your own, we are always here to help you in every step of the way.
+Wisdom can be shared, we can only guide you on where to learn, it is your duty to make the effort to progress. We will provide you with a list of resources to learn to get into git. And I again say NEVER GIVE UP! It is your duty to learn it on your own, we are always here to help you in every step of the way.
 
 Here is a list of to learn Git!
 
@@ -96,6 +96,7 @@ Choose Wisely!
 ## Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
 
 You are always encouraged to search up on items you find confusing and do research and find out whether it is suitable for you to learn. 
+_This is the age of information after all. All your doubts are a click away_
 
 # 1.SCRIPTING
 
@@ -195,7 +196,7 @@ Frontend is basically what you see, the colors, the animations, the wonderful pi
   
   Bootstrap is a pre-defined CSS file. It contains commonly used Web-elements predefined as Classes.
 
-     * Free Code Camp - https://freecodecamp.com/  
+     * Free Code Camp - https://freecodecamp.com/  (An Open Sourced Learning Website)
 
      * W3school - https://www.w3schools.com/bootstrap/
  
@@ -287,6 +288,8 @@ Your website or dynamic web application is a sum of layers—structure, design a
  * Codecademy - https://www.codecademy.com/learn/javascript 
      
  * https://www.w3schools.com/sql/
+
+(Hey there, is it getting a bit too much to take it in? Have a cup of water, take a deep breath, and come back)
 
 # 3. C/C++ programming & Operating Systems
 
@@ -392,3 +395,11 @@ As a part of Google Summer of Code, student participants are paired with a mento
 
 In turn, the participating organizations are able to identify and bring in new developers who implement new features and hopefully continue to contribute to open source even after the program is over. Most importantly, more code is created and released for the use and benefit of all.
 
+# Is this it? You would wish!
+There are a plethora of projects and programming languages to dive into that we may have not mentioned here. So if you are unhappy in not finding swift-Apple here, don't worry! Keep us updated. Therefore, to begin with, it would be highly recommended to choose among the stated options above. Once you feel confident enough to put on the coder's hat, feel free to explore all that FOSS has to offer you even more (The Hat is virtual though).
+
+Hope you have cleared your elementary doubts.
+Congratulations for going through this tutorial, all the way till the bottom of the page.
+We look forward to code together, for a better FOSS community.
+
+Thank You
