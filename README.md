@@ -144,7 +144,7 @@ Shell scripts allow us to program commands in chains and have the system execute
    * Bash Academy- http://www.bash.academy/
 
 
-# 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL, 
+# 2. WEB BASED PROJECTS : Python, Ruby, HTML, CSS, Javascript, mySQL.
 
 Web based projects can be anything to a website like Facebook, youtube, github. Or something like our college website, our attendance viewer are all web based projects but are not open source. 
 
