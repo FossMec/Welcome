@@ -21,29 +21,6 @@ Colleges may teach you programming, but not developing software. Companies, howe
 
 This is the exact mindset you should get rid of! The thing is its not that difficult and FOSS is not all about programming. There are other things except programming to do in FOSS related projects. If you're a very good content writer then you could write manuals on how to use projects and other documentation related tasks. And the developing part, its not that difficult at all! There are a lots of people to help you if you get stuck. 
 
-## Sounds Cool! Okay, I'm ready to get involved in FOSS! What do I do?
-
-Okay, so I guess you already joined https://fosscellmec.slack.com ? If not go to the Whatsapp group and tell them to add you in! Let's explain Slack. Slack is an instant messaging platform for collaborating with other developers. You could give suggestions, ask programming questions and work on projects by asking help from people and know about ongoings. 
-
-#### I suggest you check in on slack everyday to make sure you don't miss out on anything.
-
-On the right hand side of slack, there are streams, it's exactly like different groups on whatsapp. Suppose you are learning C/C++, you ask all your questions and contact people specifically learning C/C++.
-
-The general chat enables users to get updated with college news and participate in group discussions.
-Moreover, the Slack mobile apps equips users with portability and news updates on the go. 
-
-* Android: https://play.google.com/store/apps/details?id=com.Slack&hl=en
-* Windows: https://www.microsoft.com/en-us/store/p/slack/9wzdncrdk3wp
-
-Always remember, you do not become a software developer overnight, it takes weeks and months of patience 
-and perseverence. Diving in might be hard, but the more you explore, the better it gets. So don't give up!
-
-### Task 1: So your current task is to say Hi in the general stream in slack and check in everyday.
-
-Go through this wonderful tutorial on being a developer or bookmark this to go through this link later! This is the ultimate bible for developers!!!
-
-https://www.pluralsight.com/courses/get-involved
-
 #### _Okay, so that's done, now what?_
 
 # __LINUX__
@@ -93,7 +70,7 @@ Before contributing to a project you have to learn to develop it by learning the
 
 Choose Wisely!
 
-## Task 2: Your second task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
+## Task 1: Your first task is to select a suitable technology that you will learn and pursue, that you have interest in and interested in contributing to FOSS. You should select a suitable field from below and let us know in our slack general form.
 
 You are always encouraged to search up on items you find confusing and do research and find out whether it is suitable for you to learn. 
 _This is the age of information after all. All your doubts are a click away_
